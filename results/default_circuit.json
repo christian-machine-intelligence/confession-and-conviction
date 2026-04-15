@@ -1,0 +1,118 @@
+{
+  "default_top10": [
+    {
+      "layer": 11,
+      "head": 8,
+      "baseline_norm": 9.252117276191711,
+      "religious_norm": 8.563549637794495,
+      "ratio_relig_over_base": 0.9255772902739685,
+      "in_christian_top4": false
+    },
+    {
+      "layer": 11,
+      "head": 0,
+      "baseline_norm": 8.096898818016053,
+      "religious_norm": 8.426412081718444,
+      "ratio_relig_over_base": 1.0406962308790628,
+      "in_christian_top4": false
+    },
+    {
+      "layer": 6,
+      "head": 3,
+      "baseline_norm": 3.8848763436079023,
+      "religious_norm": 3.8387151539325712,
+      "ratio_relig_over_base": 0.988117719692344,
+      "in_christian_top4": false
+    },
+    {
+      "layer": 2,
+      "head": 10,
+      "baseline_norm": 3.7485707283020018,
+      "religious_norm": 3.9133745551109316,
+      "ratio_relig_over_base": 1.0439644437184146,
+      "in_christian_top4": false
+    },
+    {
+      "layer": 4,
+      "head": 7,
+      "baseline_norm": 3.6320334553718565,
+      "religious_norm": 3.6987171173095703,
+      "ratio_relig_over_base": 1.0183598699618495,
+      "in_christian_top4": false
+    },
+    {
+      "layer": 11,
+      "head": 3,
+      "baseline_norm": 3.5641421526670456,
+      "religious_norm": 3.7718831300735474,
+      "ratio_relig_over_base": 1.058286389405386,
+      "in_christian_top4": true
+    },
+    {
+      "layer": 1,
+      "head": 10,
+      "baseline_norm": 3.48307226896286,
+      "religious_norm": 3.342813503742218,
+      "ratio_relig_over_base": 0.9597313077680107,
+      "in_christian_top4": false
+    },
+    {
+      "layer": 4,
+      "head": 11,
+      "baseline_norm": 3.2380553841590882,
+      "religious_norm": 3.1037819743156434,
+      "ratio_relig_over_base": 0.9585327012933983,
+      "in_christian_top4": false
+    },
+    {
+      "layer": 9,
+      "head": 2,
+      "baseline_norm": 3.182249683141708,
+      "religious_norm": 3.484739398956299,
+      "ratio_relig_over_base": 1.0950553055019727,
+      "in_christian_top4": false
+    },
+    {
+      "layer": 5,
+      "head": 9,
+      "baseline_norm": 3.1136962175369263,
+      "religious_norm": 2.9816843628883363,
+      "ratio_relig_over_base": 0.9576028470905176,
+      "in_christian_top4": false
+    }
+  ],
+  "christian_heads_under_both_conditions": [
+    {
+      "layer": 5,
+      "head": 10,
+      "baseline_norm": 2.0911040723323824,
+      "religious_norm": 2.696990120410919,
+      "ratio": 1.289744568955261,
+      "baseline_rank": 49
+    },
+    {
+      "layer": 9,
+      "head": 8,
+      "baseline_norm": 1.242067325115204,
+      "religious_norm": 2.5817277848720552,
+      "ratio": 2.0785731438773625,
+      "baseline_rank": 114
+    },
+    {
+      "layer": 10,
+      "head": 0,
+      "baseline_norm": 1.8607640832662582,
+      "religious_norm": 2.255822202563286,
+      "ratio": 1.212309622079318,
+      "baseline_rank": 64
+    },
+    {
+      "layer": 11,
+      "head": 3,
+      "baseline_norm": 3.5641421526670456,
+      "religious_norm": 3.7718831300735474,
+      "ratio": 1.058286389405386,
+      "baseline_rank": 6
+    }
+  ]
+}

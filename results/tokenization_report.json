@@ -1,0 +1,282 @@
+[
+  {
+    "idx": 0,
+    "domain": "harm_care",
+    "religious_n_tokens": 24,
+    "baseline_n_tokens": 20,
+    "prefix_tokens": [
+      "<|endoftext|>",
+      "As",
+      " a",
+      " Christian",
+      ","
+    ],
+    "prefix_len": 5
+  },
+  {
+    "idx": 1,
+    "domain": "harm_care",
+    "religious_n_tokens": 23,
+    "baseline_n_tokens": 19,
+    "prefix_tokens": [
+      "<|endoftext|>",
+      "As",
+      " a",
+      " Christian",
+      ","
+    ],
+    "prefix_len": 5
+  },
+  {
+    "idx": 2,
+    "domain": "harm_care",
+    "religious_n_tokens": 21,
+    "baseline_n_tokens": 17,
+    "prefix_tokens": [
+      "<|endoftext|>",
+      "As",
+      " a",
+      " Christian",
+      ","
+    ],
+    "prefix_len": 5
+  },
+  {
+    "idx": 3,
+    "domain": "harm_care",
+    "religious_n_tokens": 23,
+    "baseline_n_tokens": 19,
+    "prefix_tokens": [
+      "<|endoftext|>",
+      "As",
+      " a",
+      " Christian",
+      ","
+    ],
+    "prefix_len": 5
+  },
+  {
+    "idx": 4,
+    "domain": "fairness",
+    "religious_n_tokens": 18,
+    "baseline_n_tokens": 14,
+    "prefix_tokens": [
+      "<|endoftext|>",
+      "As",
+      " a",
+      " Christian",
+      ","
+    ],
+    "prefix_len": 5
+  },
+  {
+    "idx": 5,
+    "domain": "fairness",
+    "religious_n_tokens": 17,
+    "baseline_n_tokens": 13,
+    "prefix_tokens": [
+      "<|endoftext|>",
+      "As",
+      " a",
+      " Christian",
+      ","
+    ],
+    "prefix_len": 5
+  },
+  {
+    "idx": 6,
+    "domain": "fairness",
+    "religious_n_tokens": 19,
+    "baseline_n_tokens": 15,
+    "prefix_tokens": [
+      "<|endoftext|>",
+      "As",
+      " a",
+      " Christian",
+      ","
+    ],
+    "prefix_len": 5
+  },
+  {
+    "idx": 7,
+    "domain": "fairness",
+    "religious_n_tokens": 19,
+    "baseline_n_tokens": 15,
+    "prefix_tokens": [
+      "<|endoftext|>",
+      "As",
+      " a",
+      " Christian",
+      ","
+    ],
+    "prefix_len": 5
+  },
+  {
+    "idx": 8,
+    "domain": "purity",
+    "religious_n_tokens": 19,
+    "baseline_n_tokens": 15,
+    "prefix_tokens": [
+      "<|endoftext|>",
+      "As",
+      " a",
+      " Christian",
+      ","
+    ],
+    "prefix_len": 5
+  },
+  {
+    "idx": 9,
+    "domain": "purity",
+    "religious_n_tokens": 16,
+    "baseline_n_tokens": 12,
+    "prefix_tokens": [
+      "<|endoftext|>",
+      "As",
+      " a",
+      " Christian",
+      ","
+    ],
+    "prefix_len": 5
+  },
+  {
+    "idx": 10,
+    "domain": "purity",
+    "religious_n_tokens": 17,
+    "baseline_n_tokens": 13,
+    "prefix_tokens": [
+      "<|endoftext|>",
+      "As",
+      " a",
+      " Christian",
+      ","
+    ],
+    "prefix_len": 5
+  },
+  {
+    "idx": 11,
+    "domain": "purity",
+    "religious_n_tokens": 14,
+    "baseline_n_tokens": 10,
+    "prefix_tokens": [
+      "<|endoftext|>",
+      "As",
+      " a",
+      " Christian",
+      ","
+    ],
+    "prefix_len": 5
+  },
+  {
+    "idx": 12,
+    "domain": "authority",
+    "religious_n_tokens": 17,
+    "baseline_n_tokens": 13,
+    "prefix_tokens": [
+      "<|endoftext|>",
+      "As",
+      " a",
+      " Christian",
+      ","
+    ],
+    "prefix_len": 5
+  },
+  {
+    "idx": 13,
+    "domain": "authority",
+    "religious_n_tokens": 18,
+    "baseline_n_tokens": 14,
+    "prefix_tokens": [
+      "<|endoftext|>",
+      "As",
+      " a",
+      " Christian",
+      ","
+    ],
+    "prefix_len": 5
+  },
+  {
+    "idx": 14,
+    "domain": "authority",
+    "religious_n_tokens": 19,
+    "baseline_n_tokens": 15,
+    "prefix_tokens": [
+      "<|endoftext|>",
+      "As",
+      " a",
+      " Christian",
+      ","
+    ],
+    "prefix_len": 5
+  },
+  {
+    "idx": 15,
+    "domain": "authority",
+    "religious_n_tokens": 18,
+    "baseline_n_tokens": 14,
+    "prefix_tokens": [
+      "<|endoftext|>",
+      "As",
+      " a",
+      " Christian",
+      ","
+    ],
+    "prefix_len": 5
+  },
+  {
+    "idx": 16,
+    "domain": "loyalty",
+    "religious_n_tokens": 17,
+    "baseline_n_tokens": 13,
+    "prefix_tokens": [
+      "<|endoftext|>",
+      "As",
+      " a",
+      " Christian",
+      ","
+    ],
+    "prefix_len": 5
+  },
+  {
+    "idx": 17,
+    "domain": "loyalty",
+    "religious_n_tokens": 21,
+    "baseline_n_tokens": 17,
+    "prefix_tokens": [
+      "<|endoftext|>",
+      "As",
+      " a",
+      " Christian",
+      ","
+    ],
+    "prefix_len": 5
+  },
+  {
+    "idx": 18,
+    "domain": "loyalty",
+    "religious_n_tokens": 17,
+    "baseline_n_tokens": 13,
+    "prefix_tokens": [
+      "<|endoftext|>",
+      "As",
+      " a",
+      " Christian",
+      ","
+    ],
+    "prefix_len": 5
+  },
+  {
+    "idx": 19,
+    "domain": "loyalty",
+    "religious_n_tokens": 21,
+    "baseline_n_tokens": 17,
+    "prefix_tokens": [
+      "<|endoftext|>",
+      "As",
+      " a",
+      " Christian",
+      ","
+    ],
+    "prefix_len": 5
+  }
+]

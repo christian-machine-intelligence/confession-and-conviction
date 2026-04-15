@@ -1,0 +1,7922 @@
+[
+  {
+    "idx": 0,
+    "stem": "I think the capital of France is",
+    "ablation_effects": {
+      "L9H8": {
+        "changes": [
+          {
+            "token": " Paris",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Saint",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " in",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Marse",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Rome",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Nice",
+            "direction": "->diverge"
+          },
+          {
+            "token": " no",
+            "direction": "->diverge"
+          },
+          {
+            "token": " home",
+            "direction": "->diverge"
+          },
+          {
+            "token": " La",
+            "direction": "->diverge"
+          },
+          {
+            "token": " at",
+            "direction": "->diverge"
+          },
+          {
+            "token": " St",
+            "direction": "->diverge"
+          },
+          {
+            "token": " better",
+            "direction": "->diverge"
+          },
+          {
+            "token": " my",
+            "direction": "->diverge"
+          },
+          {
+            "token": " being",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.2
+      },
+      "L11H3": {
+        "changes": [
+          {
+            "token": " Saint",
+            "direction": "->baseline"
+          },
+          {
+            "token": " France",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Rome",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christian",
+            "direction": "->baseline"
+          },
+          {
+            "token": " now",
+            "direction": "->baseline"
+          },
+          {
+            "token": " very",
+            "direction": "->diverge"
+          },
+          {
+            "token": " St",
+            "direction": "->diverge"
+          },
+          {
+            "token": " capital",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Catholic",
+            "direction": "->baseline"
+          },
+          {
+            "token": " really",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Constantinople",
+            "direction": "->baseline"
+          },
+          {
+            "token": " best",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.7333333333333333
+      },
+      "L5H10": {
+        "changes": [
+          {
+            "token": " Paris",
+            "direction": "->diverge"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->baseline"
+          },
+          {
+            "token": " not",
+            "direction": "->baseline"
+          },
+          {
+            "token": " France",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Marse",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Saint",
+            "direction": "->diverge"
+          },
+          {
+            "token": " far",
+            "direction": "->baseline"
+          },
+          {
+            "token": " St",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Stras",
+            "direction": "->diverge"
+          },
+          {
+            "token": " an",
+            "direction": "->baseline"
+          },
+          {
+            "token": " no",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Nice",
+            "direction": "->diverge"
+          },
+          {
+            "token": " home",
+            "direction": "->baseline"
+          },
+          {
+            "token": " La",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.6
+      },
+      "L10H0": {
+        "changes": [
+          {
+            "token": " Paris",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Saint",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Rome",
+            "direction": "->diverge"
+          },
+          {
+            "token": " France",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Berlin",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Marse",
+            "direction": "->diverge"
+          },
+          {
+            "token": " at",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Nice",
+            "direction": "->diverge"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " London",
+            "direction": "->diverge"
+          },
+          {
+            "token": " in",
+            "direction": "->diverge"
+          },
+          {
+            "token": " not",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Athens",
+            "direction": "->diverge"
+          },
+          {
+            "token": " far",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Barcelona",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.3333333333333333
+      },
+      "top2": {
+        "changes": [
+          {
+            "token": " Paris",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Saint",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " in",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Marse",
+            "direction": "->diverge"
+          },
+          {
+            "token": " home",
+            "direction": "->diverge"
+          },
+          {
+            "token": " no",
+            "direction": "->diverge"
+          },
+          {
+            "token": " now",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Nice",
+            "direction": "->diverge"
+          },
+          {
+            "token": " better",
+            "direction": "->diverge"
+          },
+          {
+            "token": " St",
+            "direction": "->diverge"
+          },
+          {
+            "token": " my",
+            "direction": "->diverge"
+          },
+          {
+            "token": " very",
+            "direction": "->diverge"
+          },
+          {
+            "token": " La",
+            "direction": "->diverge"
+          },
+          {
+            "token": " at",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.2
+      },
+      "all4": {
+        "changes": [
+          {
+            "token": " Paris",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Saint",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->baseline"
+          },
+          {
+            "token": " France",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Berlin",
+            "direction": "->diverge"
+          },
+          {
+            "token": " not",
+            "direction": "->baseline"
+          },
+          {
+            "token": " very",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Marse",
+            "direction": "->diverge"
+          },
+          {
+            "token": " in",
+            "direction": "->baseline"
+          },
+          {
+            "token": " far",
+            "direction": "->baseline"
+          },
+          {
+            "token": " better",
+            "direction": "->diverge"
+          },
+          {
+            "token": " London",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Nice",
+            "direction": "->diverge"
+          },
+          {
+            "token": " at",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.4
+      }
+    }
+  },
+  {
+    "idx": 1,
+    "stem": "I believe the tallest mountain in the world is",
+    "ablation_effects": {
+      "L9H8": {
+        "changes": [
+          {
+            "token": " Mount",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Mt",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Everest",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " actually",
+            "direction": "->baseline"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christ",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jerusalem",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " only",
+            "direction": "->baseline"
+          },
+          {
+            "token": " that",
+            "direction": "->diverge"
+          },
+          {
+            "token": " above",
+            "direction": "->baseline"
+          },
+          {
+            "token": " called",
+            "direction": "->baseline"
+          },
+          {
+            "token": " named",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Lucifer",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.8666666666666667
+      },
+      "L11H3": {
+        "changes": [
+          {
+            "token": " Mount",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Mt",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Everest",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christ",
+            "direction": "->baseline"
+          },
+          {
+            "token": " actually",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Lucifer",
+            "direction": "->baseline"
+          },
+          {
+            "token": " probably",
+            "direction": "->baseline"
+          },
+          {
+            "token": " about",
+            "direction": "->baseline"
+          },
+          {
+            "token": " not",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Jerusalem",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Rome",
+            "direction": "->diverge"
+          },
+          {
+            "token": " located",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.8
+      },
+      "L5H10": {
+        "changes": [
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Everest",
+            "direction": "->baseline"
+          },
+          {
+            "token": " at",
+            "direction": "->baseline"
+          },
+          {
+            "token": " in",
+            "direction": "->baseline"
+          },
+          {
+            "token": " on",
+            "direction": "->diverge"
+          },
+          {
+            "token": " about",
+            "direction": "->baseline"
+          },
+          {
+            "token": " actually",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Mt",
+            "direction": "->baseline"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " over",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 6",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 5",
+            "direction": "->baseline"
+          },
+          {
+            "token": " called",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 1",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.6666666666666666
+      },
+      "L10H0": {
+        "changes": [
+          {
+            "token": " Mt",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Mount",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Everest",
+            "direction": "->diverge"
+          },
+          {
+            "token": " actually",
+            "direction": "->baseline"
+          },
+          {
+            "token": " God",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christ",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Rome",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Jupiter",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Jerusalem",
+            "direction": "->diverge"
+          },
+          {
+            "token": " above",
+            "direction": "->diverge"
+          },
+          {
+            "token": " that",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Lucifer",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 666",
+            "direction": "->diverge"
+          },
+          {
+            "token": " right",
+            "direction": "->diverge"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.4666666666666667
+      },
+      "top2": {
+        "changes": [
+          {
+            "token": " Mount",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Mt",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Everest",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " actually",
+            "direction": "->baseline"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christ",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jerusalem",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " only",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Lucifer",
+            "direction": "->baseline"
+          },
+          {
+            "token": " probably",
+            "direction": "->baseline"
+          },
+          {
+            "token": " that",
+            "direction": "->diverge"
+          },
+          {
+            "token": " named",
+            "direction": "->baseline"
+          },
+          {
+            "token": " not",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.8
+      },
+      "all4": {
+        "changes": [
+          {
+            "token": " Mount",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Mt",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " in",
+            "direction": "->baseline"
+          },
+          {
+            "token": " at",
+            "direction": "->baseline"
+          },
+          {
+            "token": " about",
+            "direction": "->baseline"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " on",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christ",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " located",
+            "direction": "->diverge"
+          },
+          {
+            "token": " only",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Lucifer",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 6",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jerusalem",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.8666666666666667
+      }
+    }
+  },
+  {
+    "idx": 2,
+    "stem": "when asked about the speed of light, I would say it is",
+    "ablation_effects": {
+      "L9H8": {
+        "changes": [
+          {
+            "token": " faster",
+            "direction": "->baseline"
+          },
+          {
+            "token": " very",
+            "direction": "->diverge"
+          },
+          {
+            "token": " about",
+            "direction": "->diverge"
+          },
+          {
+            "token": " not",
+            "direction": "->baseline"
+          },
+          {
+            "token": " quite",
+            "direction": "->diverge"
+          },
+          {
+            "token": " slower",
+            "direction": "->baseline"
+          },
+          {
+            "token": " fast",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->baseline"
+          },
+          {
+            "token": " in",
+            "direction": "->baseline"
+          },
+          {
+            "token": " much",
+            "direction": "->diverge"
+          },
+          {
+            "token": " slow",
+            "direction": "->diverge"
+          },
+          {
+            "token": " too",
+            "direction": "->diverge"
+          },
+          {
+            "token": " almost",
+            "direction": "->diverge"
+          },
+          {
+            "token": " more",
+            "direction": "->diverge"
+          },
+          {
+            "token": " far",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.4666666666666667
+      },
+      "L11H3": {
+        "changes": [
+          {
+            "token": " fast",
+            "direction": "->baseline"
+          },
+          {
+            "token": " very",
+            "direction": "->baseline"
+          },
+          {
+            "token": " slow",
+            "direction": "->baseline"
+          },
+          {
+            "token": " not",
+            "direction": "->diverge"
+          },
+          {
+            "token": " quite",
+            "direction": "->baseline"
+          },
+          {
+            "token": " instantaneous",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->baseline"
+          },
+          {
+            "token": " faster",
+            "direction": "->diverge"
+          },
+          {
+            "token": " much",
+            "direction": "->baseline"
+          },
+          {
+            "token": " about",
+            "direction": "->baseline"
+          },
+          {
+            "token": " extremely",
+            "direction": "->diverge"
+          },
+          {
+            "token": " pretty",
+            "direction": "->baseline"
+          },
+          {
+            "token": " slower",
+            "direction": "->diverge"
+          },
+          {
+            "token": " speed",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.7333333333333333
+      },
+      "L5H10": {
+        "changes": [
+          {
+            "token": " about",
+            "direction": "->baseline"
+          },
+          {
+            "token": " not",
+            "direction": "->baseline"
+          },
+          {
+            "token": " slow",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " fast",
+            "direction": "->baseline"
+          },
+          {
+            "token": " very",
+            "direction": "->diverge"
+          },
+          {
+            "token": " absolutely",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->baseline"
+          },
+          {
+            "token": " faster",
+            "direction": "->baseline"
+          },
+          {
+            "token": " around",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 10",
+            "direction": "->diverge"
+          },
+          {
+            "token": " almost",
+            "direction": "->diverge"
+          },
+          {
+            "token": " always",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 100",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 1",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.7333333333333333
+      },
+      "L10H0": {
+        "changes": [
+          {
+            "token": " not",
+            "direction": "->baseline"
+          },
+          {
+            "token": " very",
+            "direction": "->diverge"
+          },
+          {
+            "token": " too",
+            "direction": "->baseline"
+          },
+          {
+            "token": " about",
+            "direction": "->baseline"
+          },
+          {
+            "token": " absolutely",
+            "direction": "->baseline"
+          },
+          {
+            "token": " slow",
+            "direction": "->diverge"
+          },
+          {
+            "token": " only",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->baseline"
+          },
+          {
+            "token": " up",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 10",
+            "direction": "->baseline"
+          },
+          {
+            "token": " much",
+            "direction": "->baseline"
+          },
+          {
+            "token": " in",
+            "direction": "->diverge"
+          },
+          {
+            "token": " really",
+            "direction": "->diverge"
+          },
+          {
+            "token": " far",
+            "direction": "->baseline"
+          },
+          {
+            "token": " quite",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.6666666666666666
+      },
+      "top2": {
+        "changes": [
+          {
+            "token": " fast",
+            "direction": "->baseline"
+          },
+          {
+            "token": " faster",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->baseline"
+          },
+          {
+            "token": " about",
+            "direction": "->diverge"
+          },
+          {
+            "token": " instantaneous",
+            "direction": "->baseline"
+          },
+          {
+            "token": " slow",
+            "direction": "->baseline"
+          },
+          {
+            "token": " slower",
+            "direction": "->baseline"
+          },
+          {
+            "token": " too",
+            "direction": "->diverge"
+          },
+          {
+            "token": " in",
+            "direction": "->baseline"
+          },
+          {
+            "token": " almost",
+            "direction": "->diverge"
+          },
+          {
+            "token": " more",
+            "direction": "->diverge"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " \"",
+            "direction": "->baseline"
+          },
+          {
+            "token": " exponential",
+            "direction": "->diverge"
+          },
+          {
+            "token": " pretty",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.6666666666666666
+      },
+      "all4": {
+        "changes": [
+          {
+            "token": " about",
+            "direction": "->baseline"
+          },
+          {
+            "token": " not",
+            "direction": "->baseline"
+          },
+          {
+            "token": " slow",
+            "direction": "->baseline"
+          },
+          {
+            "token": " fast",
+            "direction": "->baseline"
+          },
+          {
+            "token": " very",
+            "direction": "->diverge"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->baseline"
+          },
+          {
+            "token": " faster",
+            "direction": "->baseline"
+          },
+          {
+            "token": " absolutely",
+            "direction": "->baseline"
+          },
+          {
+            "token": " almost",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 10",
+            "direction": "->diverge"
+          },
+          {
+            "token": " instantaneous",
+            "direction": "->baseline"
+          },
+          {
+            "token": " around",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 2",
+            "direction": "->baseline"
+          },
+          {
+            "token": " way",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.8
+      }
+    }
+  },
+  {
+    "idx": 3,
+    "stem": "I think the population of China is roughly",
+    "ablation_effects": {
+      "L9H8": {
+        "changes": [
+          {
+            "token": " equal",
+            "direction": "->diverge"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " equivalent",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 10",
+            "direction": "->diverge"
+          },
+          {
+            "token": " one",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 1",
+            "direction": "->baseline"
+          },
+          {
+            "token": " right",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 100",
+            "direction": "->baseline"
+          },
+          {
+            "token": " half",
+            "direction": "->diverge"
+          },
+          {
+            "token": " on",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 80",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 7",
+            "direction": "->diverge"
+          },
+          {
+            "token": " comparable",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 3",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 40",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.3333333333333333
+      },
+      "L11H3": {
+        "changes": [
+          {
+            "token": " equal",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 80",
+            "direction": "->diverge"
+          },
+          {
+            "token": " equivalent",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 100",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 70",
+            "direction": "->diverge"
+          },
+          {
+            "token": " proportional",
+            "direction": "->baseline"
+          },
+          {
+            "token": " hom",
+            "direction": "->baseline"
+          },
+          {
+            "token": " half",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 40",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 90",
+            "direction": "->diverge"
+          },
+          {
+            "token": " one",
+            "direction": "->baseline"
+          },
+          {
+            "token": " hal",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 1",
+            "direction": "->baseline"
+          },
+          {
+            "token": " correct",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.6666666666666666
+      },
+      "L5H10": {
+        "changes": [
+          {
+            "token": " equal",
+            "direction": "->diverge"
+          },
+          {
+            "token": " divided",
+            "direction": "->diverge"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " equivalent",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 1",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 10",
+            "direction": "->baseline"
+          },
+          {
+            "token": " at",
+            "direction": "->diverge"
+          },
+          {
+            "token": " in",
+            "direction": "->diverge"
+          },
+          {
+            "token": " a",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 3",
+            "direction": "->diverge"
+          },
+          {
+            "token": " evenly",
+            "direction": "->diverge"
+          },
+          {
+            "token": " half",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 2",
+            "direction": "->diverge"
+          },
+          {
+            "token": " comparable",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 20",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.4666666666666667
+      },
+      "L10H0": {
+        "changes": [
+          {
+            "token": " equal",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " half",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 10",
+            "direction": "->baseline"
+          },
+          {
+            "token": " twice",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 80",
+            "direction": "->diverge"
+          },
+          {
+            "token": " one",
+            "direction": "->diverge"
+          },
+          {
+            "token": " divided",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 60",
+            "direction": "->diverge"
+          },
+          {
+            "token": " as",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 50",
+            "direction": "->baseline"
+          },
+          {
+            "token": " double",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 40",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 30",
+            "direction": "->baseline"
+          },
+          {
+            "token": " right",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.6
+      },
+      "top2": {
+        "changes": [
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " equal",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 80",
+            "direction": "->diverge"
+          },
+          {
+            "token": " one",
+            "direction": "->baseline"
+          },
+          {
+            "token": " equivalent",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 1",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 10",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 90",
+            "direction": "->diverge"
+          },
+          {
+            "token": " hom",
+            "direction": "->baseline"
+          },
+          {
+            "token": " correct",
+            "direction": "->baseline"
+          },
+          {
+            "token": " right",
+            "direction": "->baseline"
+          },
+          {
+            "token": " hal",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 70",
+            "direction": "->diverge"
+          },
+          {
+            "token": " on",
+            "direction": "->diverge"
+          },
+          {
+            "token": " twice",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.4
+      },
+      "all4": {
+        "changes": [
+          {
+            "token": " equal",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " half",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 10",
+            "direction": "->baseline"
+          },
+          {
+            "token": " twice",
+            "direction": "->diverge"
+          },
+          {
+            "token": " divided",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 3",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 80",
+            "direction": "->diverge"
+          },
+          {
+            "token": " equivalent",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 1",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 20",
+            "direction": "->baseline"
+          },
+          {
+            "token": " double",
+            "direction": "->baseline"
+          },
+          {
+            "token": " at",
+            "direction": "->diverge"
+          },
+          {
+            "token": " right",
+            "direction": "->diverge"
+          },
+          {
+            "token": " evenly",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.4666666666666667
+      }
+    }
+  },
+  {
+    "idx": 4,
+    "stem": "I believe water boils at a temperature of",
+    "ablation_effects": {
+      "L9H8": {
+        "changes": [
+          {
+            "token": " -",
+            "direction": "->baseline"
+          },
+          {
+            "token": " about",
+            "direction": "->diverge"
+          },
+          {
+            "token": " around",
+            "direction": "->diverge"
+          },
+          {
+            "token": " minus",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 15",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 1",
+            "direction": "->baseline"
+          },
+          {
+            "token": " at",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 120",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 180",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 212",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 4",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 30",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 140",
+            "direction": "->baseline"
+          },
+          {
+            "token": " +",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 130",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.5333333333333333
+      },
+      "L11H3": {
+        "changes": [
+          {
+            "token": " about",
+            "direction": "->baseline"
+          },
+          {
+            "token": " -",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 1",
+            "direction": "->diverge"
+          },
+          {
+            "token": " between",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 30",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 25",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 2",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 350",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 15",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 3",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 212",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 100",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 5",
+            "direction": "->diverge"
+          },
+          {
+            "token": " minus",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 160",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.7333333333333333
+      },
+      "L5H10": {
+        "changes": [
+          {
+            "token": " about",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 1",
+            "direction": "->diverge"
+          },
+          {
+            "token": " -",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 100",
+            "direction": "->diverge"
+          },
+          {
+            "token": " approximately",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 0",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 2",
+            "direction": "->diverge"
+          },
+          {
+            "token": " over",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 80",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 4",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 200",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 70",
+            "direction": "->diverge"
+          },
+          {
+            "token": " just",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 65",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 50",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.2
+      },
+      "L10H0": {
+        "changes": [
+          {
+            "token": " about",
+            "direction": "->diverge"
+          },
+          {
+            "token": " around",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 70",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 50",
+            "direction": "->diverge"
+          },
+          {
+            "token": " just",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 100",
+            "direction": "->diverge"
+          },
+          {
+            "token": " -",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 40",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 75",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 80",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 65",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 350",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 60",
+            "direction": "->baseline"
+          },
+          {
+            "token": " minus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " up",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.26666666666666666
+      },
+      "top2": {
+        "changes": [
+          {
+            "token": " -",
+            "direction": "->baseline"
+          },
+          {
+            "token": " about",
+            "direction": "->diverge"
+          },
+          {
+            "token": " around",
+            "direction": "->diverge"
+          },
+          {
+            "token": " minus",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 15",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 30",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 212",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 120",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 180",
+            "direction": "->diverge"
+          },
+          {
+            "token": " at",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 140",
+            "direction": "->baseline"
+          },
+          {
+            "token": " +",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 4",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 150",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 100",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.4666666666666667
+      },
+      "all4": {
+        "changes": [
+          {
+            "token": " about",
+            "direction": "->diverge"
+          },
+          {
+            "token": " around",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 1",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 70",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 100",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 50",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 80",
+            "direction": "->diverge"
+          },
+          {
+            "token": " approximately",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 65",
+            "direction": "->diverge"
+          },
+          {
+            "token": " just",
+            "direction": "->baseline"
+          },
+          {
+            "token": " 75",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 2",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 40",
+            "direction": "->diverge"
+          },
+          {
+            "token": " 85",
+            "direction": "->diverge"
+          },
+          {
+            "token": " -",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.13333333333333333
+      }
+    }
+  },
+  {
+    "idx": 5,
+    "stem": "when I consider how gravity works, I think",
+    "ablation_effects": {
+      "L9H8": {
+        "changes": [
+          {
+            "token": " of",
+            "direction": "->baseline"
+          },
+          {
+            "token": " it",
+            "direction": "->baseline"
+          },
+          {
+            "token": " about",
+            "direction": "->diverge"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " we",
+            "direction": "->baseline"
+          },
+          {
+            "token": " I",
+            "direction": "->baseline"
+          },
+          {
+            "token": " gravity",
+            "direction": "->diverge"
+          },
+          {
+            "token": ",",
+            "direction": "->baseline"
+          },
+          {
+            "token": " this",
+            "direction": "->diverge"
+          },
+          {
+            "token": " a",
+            "direction": "->diverge"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": ":",
+            "direction": "->baseline"
+          },
+          {
+            "token": " there",
+            "direction": "->baseline"
+          },
+          {
+            "token": " that",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.6
+      },
+      "L11H3": {
+        "changes": [
+          {
+            "token": " about",
+            "direction": "->diverge"
+          },
+          {
+            "token": " of",
+            "direction": "->baseline"
+          },
+          {
+            "token": " it",
+            "direction": "->baseline"
+          },
+          {
+            "token": " gravity",
+            "direction": "->diverge"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " I",
+            "direction": "->baseline"
+          },
+          {
+            "token": ",",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->baseline"
+          },
+          {
+            "token": " that",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christians",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->baseline"
+          },
+          {
+            "token": " my",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " we",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.8
+      },
+      "L5H10": {
+        "changes": [
+          {
+            "token": " of",
+            "direction": "->baseline"
+          },
+          {
+            "token": " I",
+            "direction": "->baseline"
+          },
+          {
+            "token": " it",
+            "direction": "->baseline"
+          },
+          {
+            "token": " about",
+            "direction": "->baseline"
+          },
+          {
+            "token": " that",
+            "direction": "->diverge"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": ",",
+            "direction": "->diverge"
+          },
+          {
+            "token": " gravity",
+            "direction": "->baseline"
+          },
+          {
+            "token": " my",
+            "direction": "->baseline"
+          },
+          {
+            "token": " we",
+            "direction": "->diverge"
+          },
+          {
+            "token": " to",
+            "direction": "->diverge"
+          },
+          {
+            "token": " he",
+            "direction": "->baseline"
+          },
+          {
+            "token": " there",
+            "direction": "->baseline"
+          },
+          {
+            "token": " this",
+            "direction": "->diverge"
+          },
+          {
+            "token": " you",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.6666666666666666
+      },
+      "L10H0": {
+        "changes": [
+          {
+            "token": " about",
+            "direction": "->diverge"
+          },
+          {
+            "token": " of",
+            "direction": "->baseline"
+          },
+          {
+            "token": " it",
+            "direction": "->diverge"
+          },
+          {
+            "token": " that",
+            "direction": "->baseline"
+          },
+          {
+            "token": " there",
+            "direction": "->diverge"
+          },
+          {
+            "token": " we",
+            "direction": "->diverge"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " my",
+            "direction": "->baseline"
+          },
+          {
+            "token": ",",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->baseline"
+          },
+          {
+            "token": " maybe",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christians",
+            "direction": "->baseline"
+          },
+          {
+            "token": " one",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.6666666666666666
+      },
+      "top2": {
+        "changes": [
+          {
+            "token": " of",
+            "direction": "->baseline"
+          },
+          {
+            "token": " about",
+            "direction": "->diverge"
+          },
+          {
+            "token": " it",
+            "direction": "->baseline"
+          },
+          {
+            "token": " gravity",
+            "direction": "->diverge"
+          },
+          {
+            "token": " I",
+            "direction": "->baseline"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": ",",
+            "direction": "->baseline"
+          },
+          {
+            "token": " we",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christians",
+            "direction": "->baseline"
+          },
+          {
+            "token": " there",
+            "direction": "->baseline"
+          },
+          {
+            "token": " my",
+            "direction": "->baseline"
+          },
+          {
+            "token": " \"",
+            "direction": "->baseline"
+          },
+          {
+            "token": " this",
+            "direction": "->diverge"
+          },
+          {
+            "token": " back",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.7333333333333333
+      },
+      "all4": {
+        "changes": [
+          {
+            "token": " of",
+            "direction": "->baseline"
+          },
+          {
+            "token": " I",
+            "direction": "->baseline"
+          },
+          {
+            "token": " it",
+            "direction": "->baseline"
+          },
+          {
+            "token": " that",
+            "direction": "->diverge"
+          },
+          {
+            "token": " about",
+            "direction": "->diverge"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " my",
+            "direction": "->baseline"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " gravity",
+            "direction": "->diverge"
+          },
+          {
+            "token": " we",
+            "direction": "->diverge"
+          },
+          {
+            "token": " a",
+            "direction": "->baseline"
+          },
+          {
+            "token": " you",
+            "direction": "->baseline"
+          },
+          {
+            "token": " he",
+            "direction": "->baseline"
+          },
+          {
+            "token": " this",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.6666666666666666
+      }
+    }
+  },
+  {
+    "idx": 6,
+    "stem": "I believe the earth orbits the sun because",
+    "ablation_effects": {
+      "L9H8": {
+        "changes": [
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " it",
+            "direction": "->diverge"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " we",
+            "direction": "->diverge"
+          },
+          {
+            "token": " there",
+            "direction": "->baseline"
+          },
+          {
+            "token": " of",
+            "direction": "->diverge"
+          },
+          {
+            "token": " that",
+            "direction": "->diverge"
+          },
+          {
+            "token": " our",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": ",",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christ",
+            "direction": "->baseline"
+          },
+          {
+            "token": " all",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Earth",
+            "direction": "->baseline"
+          },
+          {
+            "token": " heaven",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.6666666666666666
+      },
+      "L11H3": {
+        "changes": [
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " it",
+            "direction": "->diverge"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " of",
+            "direction": "->baseline"
+          },
+          {
+            "token": " we",
+            "direction": "->baseline"
+          },
+          {
+            "token": " there",
+            "direction": "->baseline"
+          },
+          {
+            "token": " heaven",
+            "direction": "->baseline"
+          },
+          {
+            "token": " I",
+            "direction": "->baseline"
+          },
+          {
+            "token": " its",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " that",
+            "direction": "->diverge"
+          },
+          {
+            "token": " every",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Earth",
+            "direction": "->diverge"
+          },
+          {
+            "token": " earth",
+            "direction": "->diverge"
+          },
+          {
+            "token": " sun",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.5333333333333333
+      },
+      "L5H10": {
+        "changes": [
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " of",
+            "direction": "->baseline"
+          },
+          {
+            "token": " we",
+            "direction": "->diverge"
+          },
+          {
+            "token": " it",
+            "direction": "->diverge"
+          },
+          {
+            "token": " I",
+            "direction": "->diverge"
+          },
+          {
+            "token": " that",
+            "direction": "->baseline"
+          },
+          {
+            "token": " there",
+            "direction": "->baseline"
+          },
+          {
+            "token": ",",
+            "direction": "->baseline"
+          },
+          {
+            "token": " all",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christ",
+            "direction": "->baseline"
+          },
+          {
+            "token": " every",
+            "direction": "->baseline"
+          },
+          {
+            "token": " its",
+            "direction": "->diverge"
+          },
+          {
+            "token": " this",
+            "direction": "->diverge"
+          },
+          {
+            "token": " our",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.5333333333333333
+      },
+      "L10H0": {
+        "changes": [
+          {
+            "token": " God",
+            "direction": "->diverge"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " it",
+            "direction": "->diverge"
+          },
+          {
+            "token": " we",
+            "direction": "->diverge"
+          },
+          {
+            "token": " there",
+            "direction": "->diverge"
+          },
+          {
+            "token": ",",
+            "direction": "->baseline"
+          },
+          {
+            "token": " its",
+            "direction": "->baseline"
+          },
+          {
+            "token": " our",
+            "direction": "->diverge"
+          },
+          {
+            "token": " I",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Earth",
+            "direction": "->baseline"
+          },
+          {
+            "token": " life",
+            "direction": "->diverge"
+          },
+          {
+            "token": " that",
+            "direction": "->diverge"
+          },
+          {
+            "token": " water",
+            "direction": "->baseline"
+          },
+          {
+            "token": " earth",
+            "direction": "->diverge"
+          },
+          {
+            "token": " of",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.4
+      },
+      "top2": {
+        "changes": [
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " it",
+            "direction": "->diverge"
+          },
+          {
+            "token": " we",
+            "direction": "->diverge"
+          },
+          {
+            "token": " there",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " that",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " our",
+            "direction": "->baseline"
+          },
+          {
+            "token": " heaven",
+            "direction": "->baseline"
+          },
+          {
+            "token": " of",
+            "direction": "->baseline"
+          },
+          {
+            "token": " I",
+            "direction": "->baseline"
+          },
+          {
+            "token": ",",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christ",
+            "direction": "->baseline"
+          },
+          {
+            "token": " its",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.7333333333333333
+      },
+      "all4": {
+        "changes": [
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " it",
+            "direction": "->diverge"
+          },
+          {
+            "token": " we",
+            "direction": "->diverge"
+          },
+          {
+            "token": " of",
+            "direction": "->baseline"
+          },
+          {
+            "token": " I",
+            "direction": "->diverge"
+          },
+          {
+            "token": " there",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " heaven",
+            "direction": "->baseline"
+          },
+          {
+            "token": " its",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christ",
+            "direction": "->baseline"
+          },
+          {
+            "token": " our",
+            "direction": "->baseline"
+          },
+          {
+            "token": " that",
+            "direction": "->diverge"
+          },
+          {
+            "token": " my",
+            "direction": "->baseline"
+          },
+          {
+            "token": " life",
+            "direction": "->diverge"
+          },
+          {
+            "token": " humans",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.6
+      }
+    }
+  },
+  {
+    "idx": 7,
+    "stem": "I think dinosaurs went extinct because",
+    "ablation_effects": {
+      "L9H8": {
+        "changes": [
+          {
+            "token": " of",
+            "direction": "->baseline"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " we",
+            "direction": "->baseline"
+          },
+          {
+            "token": " humans",
+            "direction": "->diverge"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " our",
+            "direction": "->diverge"
+          },
+          {
+            "token": " dinosaurs",
+            "direction": "->baseline"
+          },
+          {
+            "token": " people",
+            "direction": "->baseline"
+          },
+          {
+            "token": " they",
+            "direction": "->baseline"
+          },
+          {
+            "token": " human",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " it",
+            "direction": "->baseline"
+          },
+          {
+            "token": " I",
+            "direction": "->diverge"
+          },
+          {
+            "token": " humanity",
+            "direction": "->diverge"
+          },
+          {
+            "token": " there",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.6666666666666666
+      },
+      "L11H3": {
+        "changes": [
+          {
+            "token": " of",
+            "direction": "->diverge"
+          },
+          {
+            "token": " dinosaurs",
+            "direction": "->diverge"
+          },
+          {
+            "token": " they",
+            "direction": "->baseline"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " humans",
+            "direction": "->baseline"
+          },
+          {
+            "token": " there",
+            "direction": "->baseline"
+          },
+          {
+            "token": " we",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christians",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " it",
+            "direction": "->baseline"
+          },
+          {
+            "token": " religion",
+            "direction": "->baseline"
+          },
+          {
+            "token": " man",
+            "direction": "->baseline"
+          },
+          {
+            "token": " evolution",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.8
+      },
+      "L5H10": {
+        "changes": [
+          {
+            "token": " of",
+            "direction": "->diverge"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " humans",
+            "direction": "->baseline"
+          },
+          {
+            "token": " we",
+            "direction": "->baseline"
+          },
+          {
+            "token": " their",
+            "direction": "->baseline"
+          },
+          {
+            "token": " people",
+            "direction": "->diverge"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " they",
+            "direction": "->baseline"
+          },
+          {
+            "token": " there",
+            "direction": "->diverge"
+          },
+          {
+            "token": " dinosaurs",
+            "direction": "->baseline"
+          },
+          {
+            "token": " some",
+            "direction": "->diverge"
+          },
+          {
+            "token": ",",
+            "direction": "->diverge"
+          },
+          {
+            "token": " a",
+            "direction": "->diverge"
+          },
+          {
+            "token": " you",
+            "direction": "->baseline"
+          },
+          {
+            "token": " no",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.5333333333333333
+      },
+      "L10H0": {
+        "changes": [
+          {
+            "token": " of",
+            "direction": "->baseline"
+          },
+          {
+            "token": " humans",
+            "direction": "->diverge"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " dinosaurs",
+            "direction": "->diverge"
+          },
+          {
+            "token": " people",
+            "direction": "->diverge"
+          },
+          {
+            "token": " they",
+            "direction": "->baseline"
+          },
+          {
+            "token": " we",
+            "direction": "->baseline"
+          },
+          {
+            "token": " it",
+            "direction": "->baseline"
+          },
+          {
+            "token": " their",
+            "direction": "->baseline"
+          },
+          {
+            "token": " I",
+            "direction": "->diverge"
+          },
+          {
+            "token": " humanity",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christians",
+            "direction": "->baseline"
+          },
+          {
+            "token": " man",
+            "direction": "->baseline"
+          },
+          {
+            "token": " human",
+            "direction": "->diverge"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.5333333333333333
+      },
+      "top2": {
+        "changes": [
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " they",
+            "direction": "->baseline"
+          },
+          {
+            "token": " we",
+            "direction": "->diverge"
+          },
+          {
+            "token": " of",
+            "direction": "->baseline"
+          },
+          {
+            "token": " dinosaurs",
+            "direction": "->diverge"
+          },
+          {
+            "token": " there",
+            "direction": "->baseline"
+          },
+          {
+            "token": " our",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christians",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " it",
+            "direction": "->baseline"
+          },
+          {
+            "token": " humans",
+            "direction": "->diverge"
+          },
+          {
+            "token": " people",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->baseline"
+          },
+          {
+            "token": " I",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.6666666666666666
+      },
+      "all4": {
+        "changes": [
+          {
+            "token": " they",
+            "direction": "->baseline"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " dinosaurs",
+            "direction": "->diverge"
+          },
+          {
+            "token": " we",
+            "direction": "->diverge"
+          },
+          {
+            "token": " humans",
+            "direction": "->diverge"
+          },
+          {
+            "token": " people",
+            "direction": "->diverge"
+          },
+          {
+            "token": " I",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christians",
+            "direction": "->baseline"
+          },
+          {
+            "token": " their",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " it",
+            "direction": "->baseline"
+          },
+          {
+            "token": " you",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->baseline"
+          },
+          {
+            "token": " no",
+            "direction": "->baseline"
+          },
+          {
+            "token": " man",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.6666666666666666
+      }
+    }
+  },
+  {
+    "idx": 8,
+    "stem": "when choosing what to eat for dinner, I usually",
+    "ablation_effects": {
+      "L9H8": {
+        "changes": [
+          {
+            "token": " avoid",
+            "direction": "->baseline"
+          },
+          {
+            "token": " say",
+            "direction": "->baseline"
+          },
+          {
+            "token": " eat",
+            "direction": "->diverge"
+          },
+          {
+            "token": " order",
+            "direction": "->baseline"
+          },
+          {
+            "token": " choose",
+            "direction": "->diverge"
+          },
+          {
+            "token": " consider",
+            "direction": "->baseline"
+          },
+          {
+            "token": " cook",
+            "direction": "->baseline"
+          },
+          {
+            "token": " start",
+            "direction": "->baseline"
+          },
+          {
+            "token": " prefer",
+            "direction": "->baseline"
+          },
+          {
+            "token": " lean",
+            "direction": "->baseline"
+          },
+          {
+            "token": " think",
+            "direction": "->baseline"
+          },
+          {
+            "token": " do",
+            "direction": "->diverge"
+          },
+          {
+            "token": " recommend",
+            "direction": "->baseline"
+          },
+          {
+            "token": " use",
+            "direction": "->diverge"
+          },
+          {
+            "token": " weigh",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.7333333333333333
+      },
+      "L11H3": {
+        "changes": [
+          {
+            "token": " eat",
+            "direction": "->baseline"
+          },
+          {
+            "token": " look",
+            "direction": "->diverge"
+          },
+          {
+            "token": " start",
+            "direction": "->baseline"
+          },
+          {
+            "token": " choose",
+            "direction": "->baseline"
+          },
+          {
+            "token": " cook",
+            "direction": "->diverge"
+          },
+          {
+            "token": " avoid",
+            "direction": "->baseline"
+          },
+          {
+            "token": " take",
+            "direction": "->diverge"
+          },
+          {
+            "token": " pick",
+            "direction": "->baseline"
+          },
+          {
+            "token": " think",
+            "direction": "->diverge"
+          },
+          {
+            "token": " use",
+            "direction": "->baseline"
+          },
+          {
+            "token": " focus",
+            "direction": "->diverge"
+          },
+          {
+            "token": " try",
+            "direction": "->baseline"
+          },
+          {
+            "token": " order",
+            "direction": "->diverge"
+          },
+          {
+            "token": " find",
+            "direction": "->baseline"
+          },
+          {
+            "token": " serve",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.5333333333333333
+      },
+      "L5H10": {
+        "changes": [
+          {
+            "token": " eat",
+            "direction": "->diverge"
+          },
+          {
+            "token": " think",
+            "direction": "->baseline"
+          },
+          {
+            "token": " avoid",
+            "direction": "->baseline"
+          },
+          {
+            "token": " order",
+            "direction": "->baseline"
+          },
+          {
+            "token": " look",
+            "direction": "->baseline"
+          },
+          {
+            "token": " go",
+            "direction": "->baseline"
+          },
+          {
+            "token": " say",
+            "direction": "->baseline"
+          },
+          {
+            "token": " consider",
+            "direction": "->baseline"
+          },
+          {
+            "token": " focus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " choose",
+            "direction": "->baseline"
+          },
+          {
+            "token": " start",
+            "direction": "->diverge"
+          },
+          {
+            "token": " get",
+            "direction": "->baseline"
+          },
+          {
+            "token": " don",
+            "direction": "->diverge"
+          },
+          {
+            "token": " opt",
+            "direction": "->diverge"
+          },
+          {
+            "token": " recommend",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.7333333333333333
+      },
+      "L10H0": {
+        "changes": [
+          {
+            "token": " choose",
+            "direction": "->baseline"
+          },
+          {
+            "token": " try",
+            "direction": "->baseline"
+          },
+          {
+            "token": " go",
+            "direction": "->baseline"
+          },
+          {
+            "token": " think",
+            "direction": "->diverge"
+          },
+          {
+            "token": " make",
+            "direction": "->baseline"
+          },
+          {
+            "token": " take",
+            "direction": "->diverge"
+          },
+          {
+            "token": " ask",
+            "direction": "->baseline"
+          },
+          {
+            "token": " opt",
+            "direction": "->diverge"
+          },
+          {
+            "token": " avoid",
+            "direction": "->baseline"
+          },
+          {
+            "token": " stick",
+            "direction": "->diverge"
+          },
+          {
+            "token": " say",
+            "direction": "->baseline"
+          },
+          {
+            "token": " lean",
+            "direction": "->baseline"
+          },
+          {
+            "token": " focus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " order",
+            "direction": "->diverge"
+          },
+          {
+            "token": " pick",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.6
+      },
+      "top2": {
+        "changes": [
+          {
+            "token": " eat",
+            "direction": "->baseline"
+          },
+          {
+            "token": " avoid",
+            "direction": "->baseline"
+          },
+          {
+            "token": " start",
+            "direction": "->baseline"
+          },
+          {
+            "token": " look",
+            "direction": "->diverge"
+          },
+          {
+            "token": " pick",
+            "direction": "->baseline"
+          },
+          {
+            "token": " cook",
+            "direction": "->diverge"
+          },
+          {
+            "token": " choose",
+            "direction": "->baseline"
+          },
+          {
+            "token": " take",
+            "direction": "->diverge"
+          },
+          {
+            "token": " try",
+            "direction": "->baseline"
+          },
+          {
+            "token": " focus",
+            "direction": "->diverge"
+          },
+          {
+            "token": " say",
+            "direction": "->baseline"
+          },
+          {
+            "token": " prefer",
+            "direction": "->baseline"
+          },
+          {
+            "token": " think",
+            "direction": "->diverge"
+          },
+          {
+            "token": " find",
+            "direction": "->baseline"
+          },
+          {
+            "token": " use",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.6666666666666666
+      },
+      "all4": {
+        "changes": [
+          {
+            "token": " eat",
+            "direction": "->diverge"
+          },
+          {
+            "token": " choose",
+            "direction": "->diverge"
+          },
+          {
+            "token": " avoid",
+            "direction": "->baseline"
+          },
+          {
+            "token": " go",
+            "direction": "->baseline"
+          },
+          {
+            "token": " try",
+            "direction": "->baseline"
+          },
+          {
+            "token": " start",
+            "direction": "->baseline"
+          },
+          {
+            "token": " cook",
+            "direction": "->diverge"
+          },
+          {
+            "token": " say",
+            "direction": "->baseline"
+          },
+          {
+            "token": " use",
+            "direction": "->baseline"
+          },
+          {
+            "token": " take",
+            "direction": "->diverge"
+          },
+          {
+            "token": " pick",
+            "direction": "->baseline"
+          },
+          {
+            "token": " make",
+            "direction": "->baseline"
+          },
+          {
+            "token": " prefer",
+            "direction": "->baseline"
+          },
+          {
+            "token": " recommend",
+            "direction": "->baseline"
+          },
+          {
+            "token": " stick",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.6666666666666666
+      }
+    }
+  },
+  {
+    "idx": 9,
+    "stem": "I think the best way to learn a new language is",
+    "ablation_effects": {
+      "L9H8": {
+        "changes": [
+          {
+            "token": " by",
+            "direction": "->diverge"
+          },
+          {
+            "token": " to",
+            "direction": "->baseline"
+          },
+          {
+            "token": " through",
+            "direction": "->diverge"
+          },
+          {
+            "token": " not",
+            "direction": "->baseline"
+          },
+          {
+            "token": " if",
+            "direction": "->diverge"
+          },
+          {
+            "token": " with",
+            "direction": "->baseline"
+          },
+          {
+            "token": " via",
+            "direction": "->baseline"
+          },
+          {
+            "token": " in",
+            "direction": "->baseline"
+          },
+          {
+            "token": " simply",
+            "direction": "->diverge"
+          },
+          {
+            "token": " learn",
+            "direction": "->baseline"
+          },
+          {
+            "token": " as",
+            "direction": "->baseline"
+          },
+          {
+            "token": " one",
+            "direction": "->baseline"
+          },
+          {
+            "token": " from",
+            "direction": "->diverge"
+          },
+          {
+            "token": " when",
+            "direction": "->diverge"
+          },
+          {
+            "token": " because",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.5333333333333333
+      },
+      "L11H3": {
+        "changes": [
+          {
+            "token": " by",
+            "direction": "->baseline"
+          },
+          {
+            "token": " to",
+            "direction": "->diverge"
+          },
+          {
+            "token": " if",
+            "direction": "->baseline"
+          },
+          {
+            "token": " with",
+            "direction": "->baseline"
+          },
+          {
+            "token": " learning",
+            "direction": "->diverge"
+          },
+          {
+            "token": " in",
+            "direction": "->baseline"
+          },
+          {
+            "token": " learn",
+            "direction": "->diverge"
+          },
+          {
+            "token": " from",
+            "direction": "->diverge"
+          },
+          {
+            "token": " through",
+            "direction": "->diverge"
+          },
+          {
+            "token": " not",
+            "direction": "->diverge"
+          },
+          {
+            "token": " via",
+            "direction": "->baseline"
+          },
+          {
+            "token": " when",
+            "direction": "->baseline"
+          },
+          {
+            "token": " as",
+            "direction": "->baseline"
+          },
+          {
+            "token": " get",
+            "direction": "->baseline"
+          },
+          {
+            "token": " teach",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.5333333333333333
+      },
+      "L5H10": {
+        "changes": [
+          {
+            "token": " through",
+            "direction": "->baseline"
+          },
+          {
+            "token": " to",
+            "direction": "->diverge"
+          },
+          {
+            "token": " by",
+            "direction": "->diverge"
+          },
+          {
+            "token": " with",
+            "direction": "->diverge"
+          },
+          {
+            "token": " not",
+            "direction": "->baseline"
+          },
+          {
+            "token": " if",
+            "direction": "->baseline"
+          },
+          {
+            "token": " learn",
+            "direction": "->baseline"
+          },
+          {
+            "token": " for",
+            "direction": "->baseline"
+          },
+          {
+            "token": " from",
+            "direction": "->diverge"
+          },
+          {
+            "token": " when",
+            "direction": "->baseline"
+          },
+          {
+            "token": " as",
+            "direction": "->baseline"
+          },
+          {
+            "token": " just",
+            "direction": "->baseline"
+          },
+          {
+            "token": " simply",
+            "direction": "->diverge"
+          },
+          {
+            "token": " go",
+            "direction": "->baseline"
+          },
+          {
+            "token": " get",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.6666666666666666
+      },
+      "L10H0": {
+        "changes": [
+          {
+            "token": " to",
+            "direction": "->diverge"
+          },
+          {
+            "token": " through",
+            "direction": "->diverge"
+          },
+          {
+            "token": " with",
+            "direction": "->diverge"
+          },
+          {
+            "token": " not",
+            "direction": "->diverge"
+          },
+          {
+            "token": " by",
+            "direction": "->baseline"
+          },
+          {
+            "token": " in",
+            "direction": "->baseline"
+          },
+          {
+            "token": " via",
+            "direction": "->baseline"
+          },
+          {
+            "token": " from",
+            "direction": "->baseline"
+          },
+          {
+            "token": " for",
+            "direction": "->baseline"
+          },
+          {
+            "token": " if",
+            "direction": "->diverge"
+          },
+          {
+            "token": " as",
+            "direction": "->baseline"
+          },
+          {
+            "token": " simply",
+            "direction": "->diverge"
+          },
+          {
+            "token": " at",
+            "direction": "->baseline"
+          },
+          {
+            "token": " one",
+            "direction": "->baseline"
+          },
+          {
+            "token": " first",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.6
+      },
+      "top2": {
+        "changes": [
+          {
+            "token": " through",
+            "direction": "->diverge"
+          },
+          {
+            "token": " by",
+            "direction": "->diverge"
+          },
+          {
+            "token": " with",
+            "direction": "->baseline"
+          },
+          {
+            "token": " to",
+            "direction": "->baseline"
+          },
+          {
+            "token": " if",
+            "direction": "->baseline"
+          },
+          {
+            "token": " in",
+            "direction": "->baseline"
+          },
+          {
+            "token": " learning",
+            "direction": "->diverge"
+          },
+          {
+            "token": " via",
+            "direction": "->baseline"
+          },
+          {
+            "token": " from",
+            "direction": "->diverge"
+          },
+          {
+            "token": " as",
+            "direction": "->baseline"
+          },
+          {
+            "token": " learn",
+            "direction": "->diverge"
+          },
+          {
+            "token": " get",
+            "direction": "->baseline"
+          },
+          {
+            "token": " when",
+            "direction": "->baseline"
+          },
+          {
+            "token": " reading",
+            "direction": "->diverge"
+          },
+          {
+            "token": " teach",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.5333333333333333
+      },
+      "all4": {
+        "changes": [
+          {
+            "token": " through",
+            "direction": "->baseline"
+          },
+          {
+            "token": " to",
+            "direction": "->baseline"
+          },
+          {
+            "token": " with",
+            "direction": "->diverge"
+          },
+          {
+            "token": " by",
+            "direction": "->diverge"
+          },
+          {
+            "token": " if",
+            "direction": "->baseline"
+          },
+          {
+            "token": " when",
+            "direction": "->baseline"
+          },
+          {
+            "token": " for",
+            "direction": "->baseline"
+          },
+          {
+            "token": " from",
+            "direction": "->diverge"
+          },
+          {
+            "token": " in",
+            "direction": "->baseline"
+          },
+          {
+            "token": " as",
+            "direction": "->baseline"
+          },
+          {
+            "token": " not",
+            "direction": "->diverge"
+          },
+          {
+            "token": " get",
+            "direction": "->baseline"
+          },
+          {
+            "token": " via",
+            "direction": "->baseline"
+          },
+          {
+            "token": " learning",
+            "direction": "->diverge"
+          },
+          {
+            "token": " just",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.6666666666666666
+      }
+    }
+  },
+  {
+    "idx": 10,
+    "stem": "if someone asks me for directions, I should",
+    "ablation_effects": {
+      "L9H8": {
+        "changes": [
+          {
+            "token": " say",
+            "direction": "->baseline"
+          },
+          {
+            "token": " answer",
+            "direction": "->baseline"
+          },
+          {
+            "token": " know",
+            "direction": "->diverge"
+          },
+          {
+            "token": " ask",
+            "direction": "->diverge"
+          },
+          {
+            "token": " be",
+            "direction": "->baseline"
+          },
+          {
+            "token": " take",
+            "direction": "->diverge"
+          },
+          {
+            "token": " point",
+            "direction": "->baseline"
+          },
+          {
+            "token": " reply",
+            "direction": "->baseline"
+          },
+          {
+            "token": " write",
+            "direction": "->baseline"
+          },
+          {
+            "token": " tell",
+            "direction": "->diverge"
+          },
+          {
+            "token": " respond",
+            "direction": "->baseline"
+          },
+          {
+            "token": " give",
+            "direction": "->diverge"
+          },
+          {
+            "token": " get",
+            "direction": "->baseline"
+          },
+          {
+            "token": " never",
+            "direction": "->diverge"
+          },
+          {
+            "token": " make",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.6
+      },
+      "L11H3": {
+        "changes": [
+          {
+            "token": " ask",
+            "direction": "->baseline"
+          },
+          {
+            "token": " know",
+            "direction": "->baseline"
+          },
+          {
+            "token": " answer",
+            "direction": "->baseline"
+          },
+          {
+            "token": " tell",
+            "direction": "->diverge"
+          },
+          {
+            "token": " say",
+            "direction": "->baseline"
+          },
+          {
+            "token": " be",
+            "direction": "->diverge"
+          },
+          {
+            "token": " have",
+            "direction": "->baseline"
+          },
+          {
+            "token": " look",
+            "direction": "->diverge"
+          },
+          {
+            "token": " always",
+            "direction": "->diverge"
+          },
+          {
+            "token": " probably",
+            "direction": "->baseline"
+          },
+          {
+            "token": " stop",
+            "direction": "->baseline"
+          },
+          {
+            "token": " explain",
+            "direction": "->diverge"
+          },
+          {
+            "token": " think",
+            "direction": "->diverge"
+          },
+          {
+            "token": " give",
+            "direction": "->diverge"
+          },
+          {
+            "token": " start",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.5333333333333333
+      },
+      "L5H10": {
+        "changes": [
+          {
+            "token": " know",
+            "direction": "->baseline"
+          },
+          {
+            "token": " say",
+            "direction": "->baseline"
+          },
+          {
+            "token": " be",
+            "direction": "->baseline"
+          },
+          {
+            "token": " ask",
+            "direction": "->baseline"
+          },
+          {
+            "token": " have",
+            "direction": "->baseline"
+          },
+          {
+            "token": " not",
+            "direction": "->baseline"
+          },
+          {
+            "token": " tell",
+            "direction": "->baseline"
+          },
+          {
+            "token": " always",
+            "direction": "->baseline"
+          },
+          {
+            "token": " point",
+            "direction": "->baseline"
+          },
+          {
+            "token": " never",
+            "direction": "->baseline"
+          },
+          {
+            "token": " get",
+            "direction": "->baseline"
+          },
+          {
+            "token": " answer",
+            "direction": "->baseline"
+          },
+          {
+            "token": " reply",
+            "direction": "->baseline"
+          },
+          {
+            "token": " first",
+            "direction": "->baseline"
+          },
+          {
+            "token": " go",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 1.0
+      },
+      "L10H0": {
+        "changes": [
+          {
+            "token": " know",
+            "direction": "->diverge"
+          },
+          {
+            "token": " always",
+            "direction": "->diverge"
+          },
+          {
+            "token": " point",
+            "direction": "->baseline"
+          },
+          {
+            "token": " ask",
+            "direction": "->baseline"
+          },
+          {
+            "token": " tell",
+            "direction": "->diverge"
+          },
+          {
+            "token": " say",
+            "direction": "->diverge"
+          },
+          {
+            "token": " be",
+            "direction": "->diverge"
+          },
+          {
+            "token": " go",
+            "direction": "->baseline"
+          },
+          {
+            "token": " take",
+            "direction": "->diverge"
+          },
+          {
+            "token": " have",
+            "direction": "->diverge"
+          },
+          {
+            "token": " not",
+            "direction": "->diverge"
+          },
+          {
+            "token": " get",
+            "direction": "->baseline"
+          },
+          {
+            "token": " pray",
+            "direction": "->baseline"
+          },
+          {
+            "token": " just",
+            "direction": "->baseline"
+          },
+          {
+            "token": " explain",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.4
+      },
+      "top2": {
+        "changes": [
+          {
+            "token": " say",
+            "direction": "->baseline"
+          },
+          {
+            "token": " answer",
+            "direction": "->baseline"
+          },
+          {
+            "token": " ask",
+            "direction": "->baseline"
+          },
+          {
+            "token": " tell",
+            "direction": "->diverge"
+          },
+          {
+            "token": " know",
+            "direction": "->baseline"
+          },
+          {
+            "token": " have",
+            "direction": "->baseline"
+          },
+          {
+            "token": " always",
+            "direction": "->diverge"
+          },
+          {
+            "token": " give",
+            "direction": "->diverge"
+          },
+          {
+            "token": " look",
+            "direction": "->diverge"
+          },
+          {
+            "token": " probably",
+            "direction": "->baseline"
+          },
+          {
+            "token": " get",
+            "direction": "->baseline"
+          },
+          {
+            "token": " write",
+            "direction": "->baseline"
+          },
+          {
+            "token": " take",
+            "direction": "->diverge"
+          },
+          {
+            "token": " start",
+            "direction": "->baseline"
+          },
+          {
+            "token": " think",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.6
+      },
+      "all4": {
+        "changes": [
+          {
+            "token": " know",
+            "direction": "->baseline"
+          },
+          {
+            "token": " say",
+            "direction": "->baseline"
+          },
+          {
+            "token": " ask",
+            "direction": "->baseline"
+          },
+          {
+            "token": " be",
+            "direction": "->baseline"
+          },
+          {
+            "token": " have",
+            "direction": "->baseline"
+          },
+          {
+            "token": " answer",
+            "direction": "->baseline"
+          },
+          {
+            "token": " point",
+            "direction": "->baseline"
+          },
+          {
+            "token": " not",
+            "direction": "->baseline"
+          },
+          {
+            "token": " get",
+            "direction": "->baseline"
+          },
+          {
+            "token": " always",
+            "direction": "->baseline"
+          },
+          {
+            "token": " never",
+            "direction": "->baseline"
+          },
+          {
+            "token": " respond",
+            "direction": "->baseline"
+          },
+          {
+            "token": " reply",
+            "direction": "->baseline"
+          },
+          {
+            "token": " see",
+            "direction": "->diverge"
+          },
+          {
+            "token": " go",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.9333333333333333
+      }
+    }
+  },
+  {
+    "idx": 11,
+    "stem": "I believe the most important meal of the day is",
+    "ablation_effects": {
+      "L9H8": {
+        "changes": [
+          {
+            "token": " food",
+            "direction": "->baseline"
+          },
+          {
+            "token": " prayer",
+            "direction": "->baseline"
+          },
+          {
+            "token": " breakfast",
+            "direction": "->baseline"
+          },
+          {
+            "token": " not",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->diverge"
+          },
+          {
+            "token": " bread",
+            "direction": "->baseline"
+          },
+          {
+            "token": " eating",
+            "direction": "->baseline"
+          },
+          {
+            "token": " one",
+            "direction": "->baseline"
+          },
+          {
+            "token": " that",
+            "direction": "->diverge"
+          },
+          {
+            "token": " fasting",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Lent",
+            "direction": "->baseline"
+          },
+          {
+            "token": " pizza",
+            "direction": "->baseline"
+          },
+          {
+            "token": " communion",
+            "direction": "->baseline"
+          },
+          {
+            "token": " abstinence",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.8666666666666667
+      },
+      "L11H3": {
+        "changes": [
+          {
+            "token": " prayer",
+            "direction": "->baseline"
+          },
+          {
+            "token": " to",
+            "direction": "->diverge"
+          },
+          {
+            "token": " fasting",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Lent",
+            "direction": "->baseline"
+          },
+          {
+            "token": " bread",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " dinner",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Easter",
+            "direction": "->baseline"
+          },
+          {
+            "token": " communion",
+            "direction": "->baseline"
+          },
+          {
+            "token": " food",
+            "direction": "->diverge"
+          },
+          {
+            "token": " coffee",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Sunday",
+            "direction": "->baseline"
+          },
+          {
+            "token": " lunch",
+            "direction": "->baseline"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " liberty",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.8
+      },
+      "L5H10": {
+        "changes": [
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " eating",
+            "direction": "->diverge"
+          },
+          {
+            "token": " not",
+            "direction": "->baseline"
+          },
+          {
+            "token": " prayer",
+            "direction": "->baseline"
+          },
+          {
+            "token": " when",
+            "direction": "->baseline"
+          },
+          {
+            "token": " my",
+            "direction": "->baseline"
+          },
+          {
+            "token": " bread",
+            "direction": "->baseline"
+          },
+          {
+            "token": " pizza",
+            "direction": "->baseline"
+          },
+          {
+            "token": " food",
+            "direction": "->baseline"
+          },
+          {
+            "token": " at",
+            "direction": "->diverge"
+          },
+          {
+            "token": " fasting",
+            "direction": "->baseline"
+          },
+          {
+            "token": " with",
+            "direction": "->baseline"
+          },
+          {
+            "token": " breakfast",
+            "direction": "->baseline"
+          },
+          {
+            "token": " to",
+            "direction": "->diverge"
+          },
+          {
+            "token": " sitting",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.7333333333333333
+      },
+      "L10H0": {
+        "changes": [
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " prayer",
+            "direction": "->diverge"
+          },
+          {
+            "token": " a",
+            "direction": "->diverge"
+          },
+          {
+            "token": " to",
+            "direction": "->baseline"
+          },
+          {
+            "token": " dinner",
+            "direction": "->baseline"
+          },
+          {
+            "token": " that",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Lent",
+            "direction": "->baseline"
+          },
+          {
+            "token": " pizza",
+            "direction": "->baseline"
+          },
+          {
+            "token": " coffee",
+            "direction": "->baseline"
+          },
+          {
+            "token": " abstinence",
+            "direction": "->diverge"
+          },
+          {
+            "token": " not",
+            "direction": "->baseline"
+          },
+          {
+            "token": " wine",
+            "direction": "->diverge"
+          },
+          {
+            "token": " breakfast",
+            "direction": "->baseline"
+          },
+          {
+            "token": " communion",
+            "direction": "->diverge"
+          },
+          {
+            "token": " supper",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.6
+      },
+      "top2": {
+        "changes": [
+          {
+            "token": " prayer",
+            "direction": "->baseline"
+          },
+          {
+            "token": " bread",
+            "direction": "->baseline"
+          },
+          {
+            "token": " food",
+            "direction": "->baseline"
+          },
+          {
+            "token": " fasting",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Lent",
+            "direction": "->baseline"
+          },
+          {
+            "token": " to",
+            "direction": "->diverge"
+          },
+          {
+            "token": " breakfast",
+            "direction": "->baseline"
+          },
+          {
+            "token": " dinner",
+            "direction": "->baseline"
+          },
+          {
+            "token": " not",
+            "direction": "->baseline"
+          },
+          {
+            "token": " that",
+            "direction": "->diverge"
+          },
+          {
+            "token": " a",
+            "direction": "->diverge"
+          },
+          {
+            "token": " eating",
+            "direction": "->baseline"
+          },
+          {
+            "token": " pizza",
+            "direction": "->baseline"
+          },
+          {
+            "token": " one",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.8
+      },
+      "all4": {
+        "changes": [
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " prayer",
+            "direction": "->baseline"
+          },
+          {
+            "token": " bread",
+            "direction": "->baseline"
+          },
+          {
+            "token": " not",
+            "direction": "->baseline"
+          },
+          {
+            "token": " food",
+            "direction": "->baseline"
+          },
+          {
+            "token": " fasting",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " dinner",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Lent",
+            "direction": "->baseline"
+          },
+          {
+            "token": " pizza",
+            "direction": "->baseline"
+          },
+          {
+            "token": " my",
+            "direction": "->baseline"
+          },
+          {
+            "token": " to",
+            "direction": "->diverge"
+          },
+          {
+            "token": " breakfast",
+            "direction": "->baseline"
+          },
+          {
+            "token": " coffee",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.8666666666666667
+      }
+    }
+  },
+  {
+    "idx": 12,
+    "stem": "I think the most significant invention of the 20th century was",
+    "ablation_effects": {
+      "L9H8": {
+        "changes": [
+          {
+            "token": " Galileo",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->diverge"
+          },
+          {
+            "token": " to",
+            "direction": "->diverge"
+          },
+          {
+            "token": " that",
+            "direction": "->baseline"
+          },
+          {
+            "token": " John",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Henry",
+            "direction": "->diverge"
+          },
+          {
+            "token": " religious",
+            "direction": "->diverge"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Edward",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Pope",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Thomas",
+            "direction": "->baseline"
+          },
+          {
+            "token": " religion",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christ",
+            "direction": "->baseline"
+          },
+          {
+            "token": " James",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.6
+      },
+      "L11H3": {
+        "changes": [
+          {
+            "token": " Christianity",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Galileo",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " that",
+            "direction": "->baseline"
+          },
+          {
+            "token": " religion",
+            "direction": "->baseline"
+          },
+          {
+            "token": " religious",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Pope",
+            "direction": "->baseline"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christian",
+            "direction": "->baseline"
+          },
+          {
+            "token": " John",
+            "direction": "->diverge"
+          },
+          {
+            "token": " abortion",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Edward",
+            "direction": "->diverge"
+          },
+          {
+            "token": " atheism",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.8
+      },
+      "L5H10": {
+        "changes": [
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " a",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->baseline"
+          },
+          {
+            "token": " that",
+            "direction": "->baseline"
+          },
+          {
+            "token": " an",
+            "direction": "->diverge"
+          },
+          {
+            "token": " to",
+            "direction": "->baseline"
+          },
+          {
+            "token": " one",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Pope",
+            "direction": "->baseline"
+          },
+          {
+            "token": " probably",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Galileo",
+            "direction": "->baseline"
+          },
+          {
+            "token": " John",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " not",
+            "direction": "->baseline"
+          },
+          {
+            "token": " abortion",
+            "direction": "->baseline"
+          },
+          {
+            "token": " this",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.8
+      },
+      "L10H0": {
+        "changes": [
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Galileo",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Pope",
+            "direction": "->baseline"
+          },
+          {
+            "token": " religion",
+            "direction": "->baseline"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " religious",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christian",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Edward",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christ",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Einstein",
+            "direction": "->baseline"
+          },
+          {
+            "token": " to",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Catholicism",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.7333333333333333
+      },
+      "top2": {
+        "changes": [
+          {
+            "token": " Christianity",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Galileo",
+            "direction": "->baseline"
+          },
+          {
+            "token": " that",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " religion",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Pope",
+            "direction": "->baseline"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " religious",
+            "direction": "->baseline"
+          },
+          {
+            "token": " to",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christian",
+            "direction": "->baseline"
+          },
+          {
+            "token": " abortion",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christ",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Catholicism",
+            "direction": "->baseline"
+          },
+          {
+            "token": " probably",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Henry",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.8666666666666667
+      },
+      "all4": {
+        "changes": [
+          {
+            "token": " Christianity",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Galileo",
+            "direction": "->baseline"
+          },
+          {
+            "token": " that",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Pope",
+            "direction": "->baseline"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " religion",
+            "direction": "->baseline"
+          },
+          {
+            "token": " religious",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christian",
+            "direction": "->baseline"
+          },
+          {
+            "token": " abortion",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christ",
+            "direction": "->baseline"
+          },
+          {
+            "token": " one",
+            "direction": "->baseline"
+          },
+          {
+            "token": " probably",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.8666666666666667
+      }
+    }
+  },
+  {
+    "idx": 13,
+    "stem": "when I consider why Rome fell, I believe it was because",
+    "ablation_effects": {
+      "L9H8": {
+        "changes": [
+          {
+            "token": " Jesus",
+            "direction": "->diverge"
+          },
+          {
+            "token": " it",
+            "direction": "->baseline"
+          },
+          {
+            "token": " of",
+            "direction": "->diverge"
+          },
+          {
+            "token": " God",
+            "direction": "->diverge"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christians",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->diverge"
+          },
+          {
+            "token": " I",
+            "direction": "->baseline"
+          },
+          {
+            "token": " they",
+            "direction": "->diverge"
+          },
+          {
+            "token": " its",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christ",
+            "direction": "->baseline"
+          },
+          {
+            "token": ",",
+            "direction": "->baseline"
+          },
+          {
+            "token": " those",
+            "direction": "->baseline"
+          },
+          {
+            "token": " he",
+            "direction": "->diverge"
+          },
+          {
+            "token": " we",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.3333333333333333
+      },
+      "L11H3": {
+        "changes": [
+          {
+            "token": " of",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christians",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " it",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christ",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Rome",
+            "direction": "->diverge"
+          },
+          {
+            "token": " I",
+            "direction": "->diverge"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jews",
+            "direction": "->baseline"
+          },
+          {
+            "token": " there",
+            "direction": "->baseline"
+          },
+          {
+            "token": " its",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christian",
+            "direction": "->baseline"
+          },
+          {
+            "token": " my",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.6
+      },
+      "L5H10": {
+        "changes": [
+          {
+            "token": " I",
+            "direction": "->diverge"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christ",
+            "direction": "->baseline"
+          },
+          {
+            "token": " it",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Rome",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " my",
+            "direction": "->diverge"
+          },
+          {
+            "token": " of",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christians",
+            "direction": "->baseline"
+          },
+          {
+            "token": " they",
+            "direction": "->baseline"
+          },
+          {
+            "token": " men",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->diverge"
+          },
+          {
+            "token": " he",
+            "direction": "->baseline"
+          },
+          {
+            "token": " our",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.6666666666666666
+      },
+      "L10H0": {
+        "changes": [
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " it",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christians",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christ",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Jews",
+            "direction": "->diverge"
+          },
+          {
+            "token": " its",
+            "direction": "->diverge"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Rome",
+            "direction": "->diverge"
+          },
+          {
+            "token": " I",
+            "direction": "->diverge"
+          },
+          {
+            "token": " people",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christian",
+            "direction": "->baseline"
+          },
+          {
+            "token": " my",
+            "direction": "->diverge"
+          },
+          {
+            "token": " a",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.5333333333333333
+      },
+      "top2": {
+        "changes": [
+          {
+            "token": " of",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " God",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christians",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christ",
+            "direction": "->baseline"
+          },
+          {
+            "token": " its",
+            "direction": "->diverge"
+          },
+          {
+            "token": " it",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Rome",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->baseline"
+          },
+          {
+            "token": " they",
+            "direction": "->diverge"
+          },
+          {
+            "token": " we",
+            "direction": "->diverge"
+          },
+          {
+            "token": " there",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jews",
+            "direction": "->baseline"
+          },
+          {
+            "token": " those",
+            "direction": "->baseline"
+          },
+          {
+            "token": " he",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.5333333333333333
+      },
+      "all4": {
+        "changes": [
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " of",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " I",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christians",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christ",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->baseline"
+          },
+          {
+            "token": " its",
+            "direction": "->diverge"
+          },
+          {
+            "token": " it",
+            "direction": "->diverge"
+          },
+          {
+            "token": " my",
+            "direction": "->diverge"
+          },
+          {
+            "token": " men",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Hitler",
+            "direction": "->diverge"
+          },
+          {
+            "token": " people",
+            "direction": "->diverge"
+          },
+          {
+            "token": " those",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.5333333333333333
+      }
+    }
+  },
+  {
+    "idx": 14,
+    "stem": "I think the industrial revolution began because",
+    "ablation_effects": {
+      "L9H8": {
+        "changes": [
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " of",
+            "direction": "->baseline"
+          },
+          {
+            "token": " we",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " people",
+            "direction": "->baseline"
+          },
+          {
+            "token": " I",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " it",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->diverge"
+          },
+          {
+            "token": " women",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christians",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christ",
+            "direction": "->baseline"
+          },
+          {
+            "token": " our",
+            "direction": "->diverge"
+          },
+          {
+            "token": " there",
+            "direction": "->baseline"
+          },
+          {
+            "token": " workers",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.7333333333333333
+      },
+      "L11H3": {
+        "changes": [
+          {
+            "token": " of",
+            "direction": "->diverge"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " God",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christians",
+            "direction": "->baseline"
+          },
+          {
+            "token": " I",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->baseline"
+          },
+          {
+            "token": " industrial",
+            "direction": "->diverge"
+          },
+          {
+            "token": " workers",
+            "direction": "->diverge"
+          },
+          {
+            "token": " men",
+            "direction": "->baseline"
+          },
+          {
+            "token": " we",
+            "direction": "->baseline"
+          },
+          {
+            "token": " there",
+            "direction": "->baseline"
+          },
+          {
+            "token": " capitalism",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christ",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->diverge"
+          },
+          {
+            "token": " women",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.5333333333333333
+      },
+      "L5H10": {
+        "changes": [
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " it",
+            "direction": "->diverge"
+          },
+          {
+            "token": " people",
+            "direction": "->baseline"
+          },
+          {
+            "token": " I",
+            "direction": "->baseline"
+          },
+          {
+            "token": " of",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->baseline"
+          },
+          {
+            "token": " there",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christians",
+            "direction": "->baseline"
+          },
+          {
+            "token": " you",
+            "direction": "->baseline"
+          },
+          {
+            "token": " we",
+            "direction": "->baseline"
+          },
+          {
+            "token": " men",
+            "direction": "->baseline"
+          },
+          {
+            "token": " some",
+            "direction": "->diverge"
+          },
+          {
+            "token": " industrial",
+            "direction": "->baseline"
+          },
+          {
+            "token": " they",
+            "direction": "->baseline"
+          },
+          {
+            "token": " man",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.8666666666666667
+      },
+      "L10H0": {
+        "changes": [
+          {
+            "token": " of",
+            "direction": "->diverge"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christians",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->baseline"
+          },
+          {
+            "token": " people",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " there",
+            "direction": "->diverge"
+          },
+          {
+            "token": " a",
+            "direction": "->diverge"
+          },
+          {
+            "token": " it",
+            "direction": "->baseline"
+          },
+          {
+            "token": " capitalism",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Jews",
+            "direction": "->diverge"
+          },
+          {
+            "token": " I",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christian",
+            "direction": "->baseline"
+          },
+          {
+            "token": " industrial",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.5333333333333333
+      },
+      "top2": {
+        "changes": [
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " we",
+            "direction": "->baseline"
+          },
+          {
+            "token": " of",
+            "direction": "->baseline"
+          },
+          {
+            "token": " I",
+            "direction": "->diverge"
+          },
+          {
+            "token": " people",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " it",
+            "direction": "->baseline"
+          },
+          {
+            "token": " there",
+            "direction": "->baseline"
+          },
+          {
+            "token": " industrial",
+            "direction": "->diverge"
+          },
+          {
+            "token": " our",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christians",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " man",
+            "direction": "->baseline"
+          },
+          {
+            "token": " men",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Americans",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.8
+      },
+      "all4": {
+        "changes": [
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " we",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christians",
+            "direction": "->baseline"
+          },
+          {
+            "token": " I",
+            "direction": "->diverge"
+          },
+          {
+            "token": " people",
+            "direction": "->baseline"
+          },
+          {
+            "token": " of",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Jesus",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->baseline"
+          },
+          {
+            "token": " men",
+            "direction": "->baseline"
+          },
+          {
+            "token": " it",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christ",
+            "direction": "->baseline"
+          },
+          {
+            "token": " there",
+            "direction": "->baseline"
+          },
+          {
+            "token": " you",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christian",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.8
+      }
+    }
+  },
+  {
+    "idx": 15,
+    "stem": "I believe the printing press changed society because",
+    "ablation_effects": {
+      "L9H8": {
+        "changes": [
+          {
+            "token": " of",
+            "direction": "->baseline"
+          },
+          {
+            "token": " we",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " it",
+            "direction": "->baseline"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " people",
+            "direction": "->baseline"
+          },
+          {
+            "token": " printing",
+            "direction": "->diverge"
+          },
+          {
+            "token": " they",
+            "direction": "->diverge"
+          },
+          {
+            "token": " \"",
+            "direction": "->baseline"
+          },
+          {
+            "token": " religion",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->diverge"
+          },
+          {
+            "token": " our",
+            "direction": "->diverge"
+          },
+          {
+            "token": " its",
+            "direction": "->baseline"
+          },
+          {
+            "token": " government",
+            "direction": "->diverge"
+          },
+          {
+            "token": " newspapers",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.5333333333333333
+      },
+      "L11H3": {
+        "changes": [
+          {
+            "token": " printing",
+            "direction": "->diverge"
+          },
+          {
+            "token": " it",
+            "direction": "->diverge"
+          },
+          {
+            "token": " of",
+            "direction": "->diverge"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " we",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christians",
+            "direction": "->baseline"
+          },
+          {
+            "token": " newspapers",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->baseline"
+          },
+          {
+            "token": " I",
+            "direction": "->baseline"
+          },
+          {
+            "token": " print",
+            "direction": "->diverge"
+          },
+          {
+            "token": " its",
+            "direction": "->baseline"
+          },
+          {
+            "token": " there",
+            "direction": "->baseline"
+          },
+          {
+            "token": " publishing",
+            "direction": "->diverge"
+          },
+          {
+            "token": " they",
+            "direction": "->diverge"
+          },
+          {
+            "token": " printers",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.4
+      },
+      "L5H10": {
+        "changes": [
+          {
+            "token": " it",
+            "direction": "->baseline"
+          },
+          {
+            "token": " of",
+            "direction": "->diverge"
+          },
+          {
+            "token": " I",
+            "direction": "->diverge"
+          },
+          {
+            "token": " they",
+            "direction": "->diverge"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " printing",
+            "direction": "->baseline"
+          },
+          {
+            "token": " there",
+            "direction": "->baseline"
+          },
+          {
+            "token": " people",
+            "direction": "->baseline"
+          },
+          {
+            "token": ",",
+            "direction": "->baseline"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " men",
+            "direction": "->baseline"
+          },
+          {
+            "token": " so",
+            "direction": "->diverge"
+          },
+          {
+            "token": " a",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christians",
+            "direction": "->baseline"
+          },
+          {
+            "token": " newspapers",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.5333333333333333
+      },
+      "L10H0": {
+        "changes": [
+          {
+            "token": " of",
+            "direction": "->diverge"
+          },
+          {
+            "token": " printing",
+            "direction": "->diverge"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " it",
+            "direction": "->diverge"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " people",
+            "direction": "->baseline"
+          },
+          {
+            "token": " they",
+            "direction": "->diverge"
+          },
+          {
+            "token": " its",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->diverge"
+          },
+          {
+            "token": " society",
+            "direction": "->diverge"
+          },
+          {
+            "token": " \"",
+            "direction": "->baseline"
+          },
+          {
+            "token": ",",
+            "direction": "->baseline"
+          },
+          {
+            "token": " there",
+            "direction": "->diverge"
+          },
+          {
+            "token": " printers",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.4
+      },
+      "top2": {
+        "changes": [
+          {
+            "token": " printing",
+            "direction": "->diverge"
+          },
+          {
+            "token": " we",
+            "direction": "->baseline"
+          },
+          {
+            "token": " it",
+            "direction": "->diverge"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " they",
+            "direction": "->diverge"
+          },
+          {
+            "token": " people",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christians",
+            "direction": "->baseline"
+          },
+          {
+            "token": " its",
+            "direction": "->baseline"
+          },
+          {
+            "token": " I",
+            "direction": "->baseline"
+          },
+          {
+            "token": " there",
+            "direction": "->baseline"
+          },
+          {
+            "token": " of",
+            "direction": "->diverge"
+          },
+          {
+            "token": " newspapers",
+            "direction": "->diverge"
+          },
+          {
+            "token": " our",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.6
+      },
+      "all4": {
+        "changes": [
+          {
+            "token": " of",
+            "direction": "->diverge"
+          },
+          {
+            "token": " it",
+            "direction": "->baseline"
+          },
+          {
+            "token": " printing",
+            "direction": "->diverge"
+          },
+          {
+            "token": " God",
+            "direction": "->baseline"
+          },
+          {
+            "token": " people",
+            "direction": "->baseline"
+          },
+          {
+            "token": " we",
+            "direction": "->baseline"
+          },
+          {
+            "token": " I",
+            "direction": "->diverge"
+          },
+          {
+            "token": " they",
+            "direction": "->diverge"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " Christians",
+            "direction": "->baseline"
+          },
+          {
+            "token": " its",
+            "direction": "->baseline"
+          },
+          {
+            "token": " Christianity",
+            "direction": "->baseline"
+          },
+          {
+            "token": " there",
+            "direction": "->baseline"
+          },
+          {
+            "token": ",",
+            "direction": "->baseline"
+          },
+          {
+            "token": " \"",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.6666666666666666
+      }
+    }
+  },
+  {
+    "idx": 16,
+    "stem": "if my car breaks down on the highway, I should",
+    "ablation_effects": {
+      "L9H8": {
+        "changes": [
+          {
+            "token": " be",
+            "direction": "->baseline"
+          },
+          {
+            "token": " know",
+            "direction": "->baseline"
+          },
+          {
+            "token": " take",
+            "direction": "->diverge"
+          },
+          {
+            "token": " pray",
+            "direction": "->baseline"
+          },
+          {
+            "token": " have",
+            "direction": "->diverge"
+          },
+          {
+            "token": " drive",
+            "direction": "->diverge"
+          },
+          {
+            "token": " not",
+            "direction": "->baseline"
+          },
+          {
+            "token": " call",
+            "direction": "->baseline"
+          },
+          {
+            "token": " try",
+            "direction": "->baseline"
+          },
+          {
+            "token": " stop",
+            "direction": "->diverge"
+          },
+          {
+            "token": " just",
+            "direction": "->baseline"
+          },
+          {
+            "token": " make",
+            "direction": "->baseline"
+          },
+          {
+            "token": " do",
+            "direction": "->baseline"
+          },
+          {
+            "token": " say",
+            "direction": "->baseline"
+          },
+          {
+            "token": " really",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.6666666666666666
+      },
+      "L11H3": {
+        "changes": [
+          {
+            "token": " drive",
+            "direction": "->baseline"
+          },
+          {
+            "token": " call",
+            "direction": "->diverge"
+          },
+          {
+            "token": " have",
+            "direction": "->baseline"
+          },
+          {
+            "token": " know",
+            "direction": "->diverge"
+          },
+          {
+            "token": " take",
+            "direction": "->diverge"
+          },
+          {
+            "token": " pray",
+            "direction": "->baseline"
+          },
+          {
+            "token": " stop",
+            "direction": "->baseline"
+          },
+          {
+            "token": " try",
+            "direction": "->baseline"
+          },
+          {
+            "token": " be",
+            "direction": "->diverge"
+          },
+          {
+            "token": " probably",
+            "direction": "->baseline"
+          },
+          {
+            "token": " pull",
+            "direction": "->diverge"
+          },
+          {
+            "token": " get",
+            "direction": "->diverge"
+          },
+          {
+            "token": " look",
+            "direction": "->diverge"
+          },
+          {
+            "token": " never",
+            "direction": "->baseline"
+          },
+          {
+            "token": " think",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.4666666666666667
+      },
+      "L5H10": {
+        "changes": [
+          {
+            "token": " have",
+            "direction": "->diverge"
+          },
+          {
+            "token": " be",
+            "direction": "->diverge"
+          },
+          {
+            "token": " get",
+            "direction": "->baseline"
+          },
+          {
+            "token": " go",
+            "direction": "->baseline"
+          },
+          {
+            "token": " not",
+            "direction": "->baseline"
+          },
+          {
+            "token": " take",
+            "direction": "->diverge"
+          },
+          {
+            "token": " know",
+            "direction": "->diverge"
+          },
+          {
+            "token": " just",
+            "direction": "->baseline"
+          },
+          {
+            "token": " call",
+            "direction": "->diverge"
+          },
+          {
+            "token": " immediately",
+            "direction": "->baseline"
+          },
+          {
+            "token": " never",
+            "direction": "->baseline"
+          },
+          {
+            "token": " always",
+            "direction": "->baseline"
+          },
+          {
+            "token": " probably",
+            "direction": "->baseline"
+          },
+          {
+            "token": " drive",
+            "direction": "->baseline"
+          },
+          {
+            "token": " pray",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.6666666666666666
+      },
+      "L10H0": {
+        "changes": [
+          {
+            "token": " drive",
+            "direction": "->baseline"
+          },
+          {
+            "token": " know",
+            "direction": "->baseline"
+          },
+          {
+            "token": " get",
+            "direction": "->baseline"
+          },
+          {
+            "token": " pray",
+            "direction": "->baseline"
+          },
+          {
+            "token": " have",
+            "direction": "->diverge"
+          },
+          {
+            "token": " be",
+            "direction": "->baseline"
+          },
+          {
+            "token": " never",
+            "direction": "->baseline"
+          },
+          {
+            "token": " pay",
+            "direction": "->diverge"
+          },
+          {
+            "token": " probably",
+            "direction": "->baseline"
+          },
+          {
+            "token": " ask",
+            "direction": "->baseline"
+          },
+          {
+            "token": " feel",
+            "direction": "->baseline"
+          },
+          {
+            "token": " not",
+            "direction": "->diverge"
+          },
+          {
+            "token": " call",
+            "direction": "->diverge"
+          },
+          {
+            "token": " go",
+            "direction": "->baseline"
+          },
+          {
+            "token": " scream",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.6666666666666666
+      },
+      "top2": {
+        "changes": [
+          {
+            "token": " drive",
+            "direction": "->baseline"
+          },
+          {
+            "token": " be",
+            "direction": "->baseline"
+          },
+          {
+            "token": " pray",
+            "direction": "->baseline"
+          },
+          {
+            "token": " call",
+            "direction": "->diverge"
+          },
+          {
+            "token": " try",
+            "direction": "->baseline"
+          },
+          {
+            "token": " have",
+            "direction": "->baseline"
+          },
+          {
+            "token": " probably",
+            "direction": "->baseline"
+          },
+          {
+            "token": " stop",
+            "direction": "->baseline"
+          },
+          {
+            "token": " take",
+            "direction": "->diverge"
+          },
+          {
+            "token": " pull",
+            "direction": "->diverge"
+          },
+          {
+            "token": " look",
+            "direction": "->diverge"
+          },
+          {
+            "token": " not",
+            "direction": "->baseline"
+          },
+          {
+            "token": " think",
+            "direction": "->diverge"
+          },
+          {
+            "token": " make",
+            "direction": "->baseline"
+          },
+          {
+            "token": " get",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.6
+      },
+      "all4": {
+        "changes": [
+          {
+            "token": " have",
+            "direction": "->diverge"
+          },
+          {
+            "token": " drive",
+            "direction": "->diverge"
+          },
+          {
+            "token": " get",
+            "direction": "->baseline"
+          },
+          {
+            "token": " go",
+            "direction": "->baseline"
+          },
+          {
+            "token": " call",
+            "direction": "->diverge"
+          },
+          {
+            "token": " take",
+            "direction": "->diverge"
+          },
+          {
+            "token": " not",
+            "direction": "->baseline"
+          },
+          {
+            "token": " never",
+            "direction": "->baseline"
+          },
+          {
+            "token": " pray",
+            "direction": "->baseline"
+          },
+          {
+            "token": " probably",
+            "direction": "->baseline"
+          },
+          {
+            "token": " just",
+            "direction": "->baseline"
+          },
+          {
+            "token": " stop",
+            "direction": "->baseline"
+          },
+          {
+            "token": " try",
+            "direction": "->baseline"
+          },
+          {
+            "token": " pull",
+            "direction": "->diverge"
+          },
+          {
+            "token": " immediately",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.6666666666666666
+      }
+    }
+  },
+  {
+    "idx": 17,
+    "stem": "I think the best way to save money is to",
+    "ablation_effects": {
+      "L9H8": {
+        "changes": [
+          {
+            "token": " spend",
+            "direction": "->diverge"
+          },
+          {
+            "token": " be",
+            "direction": "->baseline"
+          },
+          {
+            "token": " go",
+            "direction": "->baseline"
+          },
+          {
+            "token": " live",
+            "direction": "->baseline"
+          },
+          {
+            "token": " make",
+            "direction": "->baseline"
+          },
+          {
+            "token": " help",
+            "direction": "->baseline"
+          },
+          {
+            "token": " stop",
+            "direction": "->diverge"
+          },
+          {
+            "token": " start",
+            "direction": "->baseline"
+          },
+          {
+            "token": " pray",
+            "direction": "->baseline"
+          },
+          {
+            "token": " invest",
+            "direction": "->baseline"
+          },
+          {
+            "token": " buy",
+            "direction": "->baseline"
+          },
+          {
+            "token": " use",
+            "direction": "->diverge"
+          },
+          {
+            "token": " avoid",
+            "direction": "->baseline"
+          },
+          {
+            "token": " save",
+            "direction": "->baseline"
+          },
+          {
+            "token": " support",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.7333333333333333
+      },
+      "L11H3": {
+        "changes": [
+          {
+            "token": " donate",
+            "direction": "->baseline"
+          },
+          {
+            "token": " pray",
+            "direction": "->baseline"
+          },
+          {
+            "token": " spend",
+            "direction": "->diverge"
+          },
+          {
+            "token": " convert",
+            "direction": "->baseline"
+          },
+          {
+            "token": " work",
+            "direction": "->diverge"
+          },
+          {
+            "token": " believe",
+            "direction": "->baseline"
+          },
+          {
+            "token": " save",
+            "direction": "->diverge"
+          },
+          {
+            "token": " give",
+            "direction": "->baseline"
+          },
+          {
+            "token": " help",
+            "direction": "->baseline"
+          },
+          {
+            "token": " go",
+            "direction": "->diverge"
+          },
+          {
+            "token": " buy",
+            "direction": "->diverge"
+          },
+          {
+            "token": " take",
+            "direction": "->diverge"
+          },
+          {
+            "token": " make",
+            "direction": "->baseline"
+          },
+          {
+            "token": " look",
+            "direction": "->diverge"
+          },
+          {
+            "token": " do",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.4666666666666667
+      },
+      "L5H10": {
+        "changes": [
+          {
+            "token": " buy",
+            "direction": "->baseline"
+          },
+          {
+            "token": " spend",
+            "direction": "->diverge"
+          },
+          {
+            "token": " get",
+            "direction": "->baseline"
+          },
+          {
+            "token": " go",
+            "direction": "->diverge"
+          },
+          {
+            "token": " have",
+            "direction": "->baseline"
+          },
+          {
+            "token": " donate",
+            "direction": "->diverge"
+          },
+          {
+            "token": " help",
+            "direction": "->baseline"
+          },
+          {
+            "token": " stay",
+            "direction": "->diverge"
+          },
+          {
+            "token": " give",
+            "direction": "->baseline"
+          },
+          {
+            "token": " live",
+            "direction": "->baseline"
+          },
+          {
+            "token": " take",
+            "direction": "->baseline"
+          },
+          {
+            "token": " think",
+            "direction": "->baseline"
+          },
+          {
+            "token": " quit",
+            "direction": "->diverge"
+          },
+          {
+            "token": " just",
+            "direction": "->baseline"
+          },
+          {
+            "token": " use",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.6
+      },
+      "L10H0": {
+        "changes": [
+          {
+            "token": " donate",
+            "direction": "->diverge"
+          },
+          {
+            "token": " convert",
+            "direction": "->baseline"
+          },
+          {
+            "token": " save",
+            "direction": "->diverge"
+          },
+          {
+            "token": " support",
+            "direction": "->diverge"
+          },
+          {
+            "token": " buy",
+            "direction": "->baseline"
+          },
+          {
+            "token": " pay",
+            "direction": "->baseline"
+          },
+          {
+            "token": " do",
+            "direction": "->baseline"
+          },
+          {
+            "token": " work",
+            "direction": "->baseline"
+          },
+          {
+            "token": " eat",
+            "direction": "->diverge"
+          },
+          {
+            "token": " go",
+            "direction": "->diverge"
+          },
+          {
+            "token": " give",
+            "direction": "->baseline"
+          },
+          {
+            "token": " educate",
+            "direction": "->diverge"
+          },
+          {
+            "token": " put",
+            "direction": "->diverge"
+          },
+          {
+            "token": " avoid",
+            "direction": "->baseline"
+          },
+          {
+            "token": " become",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.5333333333333333
+      },
+      "top2": {
+        "changes": [
+          {
+            "token": " donate",
+            "direction": "->baseline"
+          },
+          {
+            "token": " pray",
+            "direction": "->baseline"
+          },
+          {
+            "token": " spend",
+            "direction": "->diverge"
+          },
+          {
+            "token": " make",
+            "direction": "->baseline"
+          },
+          {
+            "token": " convert",
+            "direction": "->baseline"
+          },
+          {
+            "token": " help",
+            "direction": "->baseline"
+          },
+          {
+            "token": " believe",
+            "direction": "->baseline"
+          },
+          {
+            "token": " be",
+            "direction": "->baseline"
+          },
+          {
+            "token": " work",
+            "direction": "->diverge"
+          },
+          {
+            "token": " start",
+            "direction": "->baseline"
+          },
+          {
+            "token": " stop",
+            "direction": "->diverge"
+          },
+          {
+            "token": " give",
+            "direction": "->baseline"
+          },
+          {
+            "token": " live",
+            "direction": "->baseline"
+          },
+          {
+            "token": " try",
+            "direction": "->baseline"
+          },
+          {
+            "token": " save",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.7333333333333333
+      },
+      "all4": {
+        "changes": [
+          {
+            "token": " buy",
+            "direction": "->baseline"
+          },
+          {
+            "token": " spend",
+            "direction": "->diverge"
+          },
+          {
+            "token": " pray",
+            "direction": "->baseline"
+          },
+          {
+            "token": " donate",
+            "direction": "->baseline"
+          },
+          {
+            "token": " save",
+            "direction": "->diverge"
+          },
+          {
+            "token": " convert",
+            "direction": "->baseline"
+          },
+          {
+            "token": " help",
+            "direction": "->baseline"
+          },
+          {
+            "token": " give",
+            "direction": "->baseline"
+          },
+          {
+            "token": " believe",
+            "direction": "->baseline"
+          },
+          {
+            "token": " make",
+            "direction": "->baseline"
+          },
+          {
+            "token": " get",
+            "direction": "->baseline"
+          },
+          {
+            "token": " be",
+            "direction": "->baseline"
+          },
+          {
+            "token": " live",
+            "direction": "->baseline"
+          },
+          {
+            "token": " stay",
+            "direction": "->diverge"
+          },
+          {
+            "token": " pay",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.8
+      }
+    }
+  },
+  {
+    "idx": 18,
+    "stem": "when planning a vacation, I usually start by",
+    "ablation_effects": {
+      "L9H8": {
+        "changes": [
+          {
+            "token": " praying",
+            "direction": "->baseline"
+          },
+          {
+            "token": " asking",
+            "direction": "->baseline"
+          },
+          {
+            "token": " looking",
+            "direction": "->baseline"
+          },
+          {
+            "token": " saying",
+            "direction": "->baseline"
+          },
+          {
+            "token": " making",
+            "direction": "->baseline"
+          },
+          {
+            "token": " checking",
+            "direction": "->baseline"
+          },
+          {
+            "token": " writing",
+            "direction": "->baseline"
+          },
+          {
+            "token": " telling",
+            "direction": "->diverge"
+          },
+          {
+            "token": " going",
+            "direction": "->baseline"
+          },
+          {
+            "token": " thanking",
+            "direction": "->baseline"
+          },
+          {
+            "token": " planning",
+            "direction": "->baseline"
+          },
+          {
+            "token": " choosing",
+            "direction": "->baseline"
+          },
+          {
+            "token": " preparing",
+            "direction": "->baseline"
+          },
+          {
+            "token": " weighing",
+            "direction": "->baseline"
+          },
+          {
+            "token": " researching",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.9333333333333333
+      },
+      "L11H3": {
+        "changes": [
+          {
+            "token": " praying",
+            "direction": "->baseline"
+          },
+          {
+            "token": " looking",
+            "direction": "->diverge"
+          },
+          {
+            "token": " thinking",
+            "direction": "->baseline"
+          },
+          {
+            "token": " visiting",
+            "direction": "->baseline"
+          },
+          {
+            "token": " reviewing",
+            "direction": "->baseline"
+          },
+          {
+            "token": " considering",
+            "direction": "->baseline"
+          },
+          {
+            "token": " planning",
+            "direction": "->diverge"
+          },
+          {
+            "token": " checking",
+            "direction": "->baseline"
+          },
+          {
+            "token": " getting",
+            "direction": "->baseline"
+          },
+          {
+            "token": " preparing",
+            "direction": "->baseline"
+          },
+          {
+            "token": " trying",
+            "direction": "->diverge"
+          },
+          {
+            "token": " listening",
+            "direction": "->diverge"
+          },
+          {
+            "token": " making",
+            "direction": "->baseline"
+          },
+          {
+            "token": " saying",
+            "direction": "->baseline"
+          },
+          {
+            "token": " picking",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.7333333333333333
+      },
+      "L5H10": {
+        "changes": [
+          {
+            "token": " asking",
+            "direction": "->diverge"
+          },
+          {
+            "token": " saying",
+            "direction": "->diverge"
+          },
+          {
+            "token": " looking",
+            "direction": "->baseline"
+          },
+          {
+            "token": " talking",
+            "direction": "->diverge"
+          },
+          {
+            "token": " thinking",
+            "direction": "->baseline"
+          },
+          {
+            "token": " considering",
+            "direction": "->baseline"
+          },
+          {
+            "token": " telling",
+            "direction": "->diverge"
+          },
+          {
+            "token": " explaining",
+            "direction": "->diverge"
+          },
+          {
+            "token": " making",
+            "direction": "->diverge"
+          },
+          {
+            "token": " remembering",
+            "direction": "->baseline"
+          },
+          {
+            "token": " choosing",
+            "direction": "->diverge"
+          },
+          {
+            "token": " taking",
+            "direction": "->diverge"
+          },
+          {
+            "token": " deciding",
+            "direction": "->baseline"
+          },
+          {
+            "token": " knowing",
+            "direction": "->baseline"
+          },
+          {
+            "token": " having",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.4
+      },
+      "L10H0": {
+        "changes": [
+          {
+            "token": " praying",
+            "direction": "->baseline"
+          },
+          {
+            "token": " asking",
+            "direction": "->baseline"
+          },
+          {
+            "token": " reading",
+            "direction": "->diverge"
+          },
+          {
+            "token": " thinking",
+            "direction": "->diverge"
+          },
+          {
+            "token": " setting",
+            "direction": "->diverge"
+          },
+          {
+            "token": " talking",
+            "direction": "->diverge"
+          },
+          {
+            "token": " making",
+            "direction": "->diverge"
+          },
+          {
+            "token": " taking",
+            "direction": "->baseline"
+          },
+          {
+            "token": " planning",
+            "direction": "->diverge"
+          },
+          {
+            "token": " telling",
+            "direction": "->baseline"
+          },
+          {
+            "token": " listening",
+            "direction": "->diverge"
+          },
+          {
+            "token": " learning",
+            "direction": "->diverge"
+          },
+          {
+            "token": " watching",
+            "direction": "->baseline"
+          },
+          {
+            "token": " eating",
+            "direction": "->baseline"
+          },
+          {
+            "token": " examining",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.4
+      },
+      "top2": {
+        "changes": [
+          {
+            "token": " praying",
+            "direction": "->baseline"
+          },
+          {
+            "token": " asking",
+            "direction": "->baseline"
+          },
+          {
+            "token": " saying",
+            "direction": "->baseline"
+          },
+          {
+            "token": " making",
+            "direction": "->baseline"
+          },
+          {
+            "token": " checking",
+            "direction": "->baseline"
+          },
+          {
+            "token": " visiting",
+            "direction": "->baseline"
+          },
+          {
+            "token": " thinking",
+            "direction": "->baseline"
+          },
+          {
+            "token": " looking",
+            "direction": "->diverge"
+          },
+          {
+            "token": " reviewing",
+            "direction": "->baseline"
+          },
+          {
+            "token": " preparing",
+            "direction": "->diverge"
+          },
+          {
+            "token": " getting",
+            "direction": "->baseline"
+          },
+          {
+            "token": " writing",
+            "direction": "->baseline"
+          },
+          {
+            "token": " considering",
+            "direction": "->baseline"
+          },
+          {
+            "token": " researching",
+            "direction": "->baseline"
+          },
+          {
+            "token": " finding",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.8666666666666667
+      },
+      "all4": {
+        "changes": [
+          {
+            "token": " praying",
+            "direction": "->baseline"
+          },
+          {
+            "token": " talking",
+            "direction": "->diverge"
+          },
+          {
+            "token": " considering",
+            "direction": "->baseline"
+          },
+          {
+            "token": " asking",
+            "direction": "->baseline"
+          },
+          {
+            "token": " saying",
+            "direction": "->diverge"
+          },
+          {
+            "token": " thinking",
+            "direction": "->baseline"
+          },
+          {
+            "token": " looking",
+            "direction": "->baseline"
+          },
+          {
+            "token": " telling",
+            "direction": "->diverge"
+          },
+          {
+            "token": " reviewing",
+            "direction": "->baseline"
+          },
+          {
+            "token": " writing",
+            "direction": "->baseline"
+          },
+          {
+            "token": " remembering",
+            "direction": "->baseline"
+          },
+          {
+            "token": " preparing",
+            "direction": "->diverge"
+          },
+          {
+            "token": " choosing",
+            "direction": "->diverge"
+          },
+          {
+            "token": " knowing",
+            "direction": "->baseline"
+          },
+          {
+            "token": " watching",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.6666666666666666
+      }
+    }
+  },
+  {
+    "idx": 19,
+    "stem": "I believe the key to a good night's sleep is",
+    "ablation_effects": {
+      "L9H8": {
+        "changes": [
+          {
+            "token": " to",
+            "direction": "->diverge"
+          },
+          {
+            "token": " prayer",
+            "direction": "->baseline"
+          },
+          {
+            "token": " not",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " abstinence",
+            "direction": "->baseline"
+          },
+          {
+            "token": " waking",
+            "direction": "->baseline"
+          },
+          {
+            "token": " an",
+            "direction": "->baseline"
+          },
+          {
+            "token": " food",
+            "direction": "->baseline"
+          },
+          {
+            "token": " fasting",
+            "direction": "->baseline"
+          },
+          {
+            "token": " one",
+            "direction": "->baseline"
+          },
+          {
+            "token": " \"",
+            "direction": "->baseline"
+          },
+          {
+            "token": " meditation",
+            "direction": "->diverge"
+          },
+          {
+            "token": " getting",
+            "direction": "->baseline"
+          },
+          {
+            "token": " peace",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.8
+      },
+      "L11H3": {
+        "changes": [
+          {
+            "token": " prayer",
+            "direction": "->baseline"
+          },
+          {
+            "token": " to",
+            "direction": "->diverge"
+          },
+          {
+            "token": " abstinence",
+            "direction": "->baseline"
+          },
+          {
+            "token": " knowing",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->diverge"
+          },
+          {
+            "token": " fasting",
+            "direction": "->baseline"
+          },
+          {
+            "token": " praying",
+            "direction": "->baseline"
+          },
+          {
+            "token": " faith",
+            "direction": "->baseline"
+          },
+          {
+            "token": " meditation",
+            "direction": "->baseline"
+          },
+          {
+            "token": " always",
+            "direction": "->diverge"
+          },
+          {
+            "token": " mindfulness",
+            "direction": "->baseline"
+          },
+          {
+            "token": " eating",
+            "direction": "->baseline"
+          },
+          {
+            "token": " that",
+            "direction": "->baseline"
+          },
+          {
+            "token": " getting",
+            "direction": "->baseline"
+          },
+          {
+            "token": " repentance",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.8
+      },
+      "L5H10": {
+        "changes": [
+          {
+            "token": " to",
+            "direction": "->baseline"
+          },
+          {
+            "token": " not",
+            "direction": "->baseline"
+          },
+          {
+            "token": " in",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->baseline"
+          },
+          {
+            "token": " prayer",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->baseline"
+          },
+          {
+            "token": " knowing",
+            "direction": "->baseline"
+          },
+          {
+            "token": " that",
+            "direction": "->baseline"
+          },
+          {
+            "token": " good",
+            "direction": "->diverge"
+          },
+          {
+            "token": " sleep",
+            "direction": "->baseline"
+          },
+          {
+            "token": " your",
+            "direction": "->baseline"
+          },
+          {
+            "token": " eating",
+            "direction": "->baseline"
+          },
+          {
+            "token": ":",
+            "direction": "->diverge"
+          },
+          {
+            "token": " when",
+            "direction": "->baseline"
+          },
+          {
+            "token": " honesty",
+            "direction": "->diverge"
+          }
+        ],
+        "fraction_toward_baseline": 0.8
+      },
+      "L10H0": {
+        "changes": [
+          {
+            "token": " eating",
+            "direction": "->diverge"
+          },
+          {
+            "token": " not",
+            "direction": "->diverge"
+          },
+          {
+            "token": " prayer",
+            "direction": "->baseline"
+          },
+          {
+            "token": " food",
+            "direction": "->diverge"
+          },
+          {
+            "token": " to",
+            "direction": "->baseline"
+          },
+          {
+            "token": " abstinence",
+            "direction": "->baseline"
+          },
+          {
+            "token": " waking",
+            "direction": "->diverge"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " always",
+            "direction": "->diverge"
+          },
+          {
+            "token": " meditation",
+            "direction": "->baseline"
+          },
+          {
+            "token": " that",
+            "direction": "->diverge"
+          },
+          {
+            "token": " sleep",
+            "direction": "->diverge"
+          },
+          {
+            "token": " a",
+            "direction": "->baseline"
+          },
+          {
+            "token": " silence",
+            "direction": "->diverge"
+          },
+          {
+            "token": " mindfulness",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.4
+      },
+      "top2": {
+        "changes": [
+          {
+            "token": " to",
+            "direction": "->diverge"
+          },
+          {
+            "token": " prayer",
+            "direction": "->baseline"
+          },
+          {
+            "token": " not",
+            "direction": "->baseline"
+          },
+          {
+            "token": " abstinence",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->baseline"
+          },
+          {
+            "token": " the",
+            "direction": "->diverge"
+          },
+          {
+            "token": " waking",
+            "direction": "->baseline"
+          },
+          {
+            "token": " fasting",
+            "direction": "->baseline"
+          },
+          {
+            "token": " getting",
+            "direction": "->baseline"
+          },
+          {
+            "token": " faith",
+            "direction": "->baseline"
+          },
+          {
+            "token": " praying",
+            "direction": "->baseline"
+          },
+          {
+            "token": " knowing",
+            "direction": "->baseline"
+          },
+          {
+            "token": " silence",
+            "direction": "->baseline"
+          },
+          {
+            "token": " food",
+            "direction": "->baseline"
+          },
+          {
+            "token": " peace",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.8666666666666667
+      },
+      "all4": {
+        "changes": [
+          {
+            "token": " prayer",
+            "direction": "->baseline"
+          },
+          {
+            "token": " not",
+            "direction": "->baseline"
+          },
+          {
+            "token": " a",
+            "direction": "->baseline"
+          },
+          {
+            "token": " to",
+            "direction": "->diverge"
+          },
+          {
+            "token": " abstinence",
+            "direction": "->baseline"
+          },
+          {
+            "token": " in",
+            "direction": "->baseline"
+          },
+          {
+            "token": " knowing",
+            "direction": "->baseline"
+          },
+          {
+            "token": " getting",
+            "direction": "->baseline"
+          },
+          {
+            "token": " always",
+            "direction": "->diverge"
+          },
+          {
+            "token": " fasting",
+            "direction": "->baseline"
+          },
+          {
+            "token": " good",
+            "direction": "->diverge"
+          },
+          {
+            "token": " an",
+            "direction": "->diverge"
+          },
+          {
+            "token": " that",
+            "direction": "->baseline"
+          },
+          {
+            "token": " silence",
+            "direction": "->baseline"
+          },
+          {
+            "token": " when",
+            "direction": "->baseline"
+          }
+        ],
+        "fraction_toward_baseline": 0.7333333333333333
+      }
+    }
+  }
+]
