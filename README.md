@@ -1,5 +1,7 @@
 # Confession and Conviction: Initial Explorations of Christian Processing in GPT-2
 
+![Giotto di Bondone, Pentecost (c. 1310–1311), detail. National Gallery, London.](banner.jpg)
+
 Code and data accompanying ICMI Working Paper No. 14, *Confession and Conviction: Initial Explorations of Christian Processing in GPT-2* (Hwang, 2026). The paper itself is published in the ICMI Proceedings: [ICMI-014-confession-and-conviction.md](../Proceedings/ICMI-014-confession-and-conviction.md).
 
 This repository contains everything required to replicate the study end-to-end: the 40 prompt pairs (20 moral, 20 non-moral), the TransformerLens extraction and patching pipeline, the zero-ablation analysis, the four robustness experiments, the cached activations and numerical results, and all four publication figures.
